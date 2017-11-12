@@ -1,0 +1,916 @@
+﻿# doc = travelling.2.txt																
+# speaker = Марина																
+# sent = 2618																
+	Э	Э-Э	INTJ			   _Э_ , вспомни ,	э						INTJ	Э	S - - nonflex -	Э
+	,	,	PUNCT										PUNCT			
+	вспомни	ВСПОМНИТЬ	V pf - sg imper - 2p			 Э , _вспомни_ , в каких	и	н	м	о	п	с	V	ВСПОМНИТЬ	V pf - sg imper - 2p	Ь
+	,	,	PUNCT										PUNCT			
+	в	В	PR			, вспомни , _в_ каких  гродах	в						PR	В	PR	В
+	каких	КАКОЙ	APRO - loc pl plen - -			вспомни , в _каких_  гродах 	х	и	к	а	к		APRO	КАКОЙ	A - gen pl plen - -	Й
+"<distinct form="""																
+<dist>	гродах															
+""">"																
+	городах	ГОРОД	S m inan loc pl			 гродах  _городах_  и странах	х	а	д	о	р	о	S	ГОРОД	S m inan loc pl	Д
+</distinct>																
+	и	И	CONJ			 городах  _и_ странах ты была	и						CONJ	И	CONJ	И
+	странах	СТРАНА	S f inan loc pl			городах  и _странах_ ты была ,	х	а	н	а	р	т	S	СТРАНА	S f inan loc pl	А
+	ты	ТЫ	SPRO sg 2p - nom			 и странах _ты_ была , 	ы	т					SPRO	ТЫ	SPRO sg 2p - nom	Ы
+	была	БЫТЬ	V ipf praet sg indic f -			и странах ты _была_ ,  иии	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	,	,	PUNCT										PUNCT			
+"<distinct form="""																
+<dist>	иии															
+""">"																
+	и	И	CONJ			 иии  _и_  расскажи о	и						CONJ	И	CONJ	И
+</distinct>																
+	расскажи	РАССКАЗАТЬ	V pf - sg imper - 2p			 и  _расскажи_ о тех ,	и	ж	а	к	с	с	V	РАССКАЗАТЬ	V pf - sg imper - 2p	Ь
+	о	О	PR			и  расскажи _о_ тех , в	о						PR	О	PR	О
+	тех	ТОТ	APRO - loc pl plen - -			 расскажи о _тех_ , в которых	х	е	т				SPRO	ТОТ	A - gen pl plen - -	Т
+	,	,	PUNCT										PUNCT			
+	в	В	PR			о тех , _в_ которых тебе больше	в						PR	В	PR	В
+	которых	КОТОРЫЙ	APRO - loc pl plen - -			тех , в _которых_ тебе больше всего	х	ы	р	о	т	о	APRO	КОТОРЫЙ	A - gen pl plen - -	Й
+	тебе	ТЫ	SPRO sg 2p - dat			, в которых _тебе_ больше всего понравилось	е	б	е	т			SPRO	ТЫ	SPRO sg 2p - dat	Ы
+	больше	МНОГО	ADV comp			в которых тебе _больше_ всего понравилось .	е	ш	ь	л	о	б	ADV	МНОГО	ADV comp	О
+	всего	ВСЕ	S n inan gen sg			которых тебе больше _всего_ понравилось . 	о	г	е	с	в		S	ВСЕ	S n inan gen sg	Е
+	понравилось	ПОНРАВИТЬСЯ	V pf praet sg indic n -			тебе больше всего _понравилось_ .  	ь	с	о	л	и	в	V	ПОНРАВИТЬСЯ	V pf praet sg indic n -	Я
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2619																
+# speaker = Алёна																
+# sent = 2620																
+	А	А	CONJ			   _А_ была , когда	а						CONJ	А	CONJ	А
+	была	БЫТЬ	V ipf praet sg indic f -			  А _была_ , когда я	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	,	,	PUNCT										PUNCT			
+	когда	КОГДА	CONJ			А была , _когда_ я была взрослой	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	я	Я	SPRO sg 1p - nom			была , когда _я_ была взрослой или	я						SPRO	Я	SPRO sg 1p - nom	Я
+	была	БЫТЬ	V ipf praet sg indic f -			, когда я _была_ взрослой или когда	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	взрослой	ВЗРОСЛЫЙ	A - ins sg plen f -			когда я была _взрослой_ или когда я	й	о	л	с	о	р	A	ВЗРОСЛЫЙ	A - ins sg plen f -	Й
+	или	ИЛИ	CONJ			я была взрослой _или_ когда я была	и	л	и				CONJ	ИЛИ	CONJ	И
+	когда	КОГДА	CONJ			была взрослой или _когда_ я была маленькой	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	я	Я	SPRO sg 1p - nom			взрослой или когда _я_ была маленькой ?	я						SPRO	Я	SPRO sg 1p - nom	Я
+	была	БЫТЬ	V ipf praet sg indic f -			или когда я _была_ маленькой ? 	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	маленькой	МАЛЕНЬКИЙ	A - ins sg plen f -			когда я была _маленькой_ ?  	й	о	к	ь	н	е	A	МАЛЕНЬКИЙ	A - ins sg plen f -	Й
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2621																
+	Или	ИЛИ	CONJ			?   _Или_ вообще ? 	и	л	и				CONJ	ИЛИ	CONJ	И
+	вообще	ВООБЩЕ	ADV -			  Или _вообще_ ?  	е	щ	б	о	о	в	ADV	ВООБЩЕ	ADV -	Е
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2622																
+# speaker = Марина																
+# sent = 2623																
+	Вообще	ВООБЩЕ	ADV -			   _Вообще_ .  	е	щ	б	о	о	в	ADV	ВООБЩЕ	ADV -	Е
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2624																
+# speaker = Алёна																
+# sent = 2625																
+	Вообще	ВООБЩЕ	ADV -			   _Вообще_ ? .. 	е	щ	б	о	о	в	ADV	ВООБЩЕ	ADV -	Е
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2626																
+	Э	Э-Э	INTJ			..   _Э_ ,  вообщеее	э						INTJ	Э	S - - nonflex -	Э
+	,	,	PUNCT										PUNCT			
+"<distinct form="""																
+<dist>	вообщеее															
+""">"																
+	вообще	ВООБЩЕ	ADV -			 вообщеее  _вообще_  ... самое	е	щ	б	о	о	в	ADV	ВООБЩЕ	ADV -	Е
+</distinct>																
+	...	...	PUNCT										PUNCT			
+	самое	САМЫЙ	APRO - nom sg plen n -			вообще  ... _самое_ , ээ ,	е	о	м	а	с		A	САМЫЙ	A - nom sg plen n -	Й
+	,	,	PUNCT										PUNCT			
+	ээ	Э-Э	INTJ			... самое , _ээ_ , интересное воспоминание	э	э					NONLEX	ЭЭ	NONLEX	Э
+	,	,	PUNCT										PUNCT			
+	интересное	ИНТЕРЕСНЫЙ	A - nom sg plen n -			, ээ , _интересное_ воспоминание у меня	е	о	н	с	е	р	A	ИНТЕРЕСНЫЙ	A - nom sg plen n -	Й
+	воспоминание	ВОСПОМИНАНИЕ	S n inan nom sg			ээ , интересное _воспоминание_ у меня о	е	и	н	а	н	и	S	ВОСПОМИНАНИЕ	S n inan nom sg	Е
+	у	У	PR			, интересное воспоминание _у_ меня о Сахалине	у						PR	У	PR	У
+	меня	Я	SPRO sg 1p - gen			интересное воспоминание у _меня_ о Сахалине .	я	н	е	м			SPRO	Я	SPRO sg 1p - acc	Я
+	о	О	PR			воспоминание у меня _о_ Сахалине . 	о						PR	О	PR	О
+	Сахалине	САХАЛИН	S m inan loc sg			у меня о _Сахалине_ .  	е	н	и	л	а	х	S	САХАЛИН	S m inan loc sg	Н
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2627																
+	Я	Я	SPRO sg 1p - nom			.   _Я_ туда ехала с	я						SPRO	Я	SPRO sg 1p - nom	Я
+	туда	ТУДА	ADV -			  Я _туда_ ехала с родителями	а	д	у	т			ADV	ТУДА	ADV -	А
+	ехала	ЕХАТЬ	V ipf praet sg indic f -			 Я туда _ехала_ с родителями ,	а	л	а	х	е		V	ЕХАТЬ	V ipf praet sg indic f -	Ь
+	с	С	PR			Я туда ехала _с_ родителями , когда	с						PR	С	PR	С
+	родителями	РОДИТЕЛЬ	S m anim ins pl			туда ехала с _родителями_ , когда мне	и	м	я	л	е	т	S	РОДИТЕЛЬ	S m anim ins pl	Ь
+	,	,	PUNCT										PUNCT			
+	когда	КОГДА	CONJ			с родителями , _когда_ мне было четыре	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	мне	Я	SPRO sg 1p - dat			родителями , когда _мне_ было четыре года	е	н	м				SPRO	Я	SPRO sg 1p - dat	Я
+	было	БЫТЬ	V ipf praet sg indic n -			, когда мне _было_ четыре года ,	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	четыре	ЧЕТЫРЕ	NUM nom - -			когда мне было _четыре_ года , ну	е	р	ы	т	е	ч	NUM	ЧЕТЫРЕ	NUM nom - -	Е
+	года	ГОД	S m inan gen sg			мне было четыре _года_ , ну почти	а	д	о	г			S	ГОД	S m inan gen sg	Д
+	,	,	PUNCT										PUNCT			
+	ну	НУ	PART			четыре года , _ну_ почти пять .	у	н					PART	НУ	PART	У
+	почти	ПОЧТИ	ADV -			года , ну _почти_ пять . 	и	т	ч	о	п		ADV	ПОЧТИ	ADV -	И
+	пять	ПЯТЬ	NUM nom - -			, ну почти _пять_ .  	ь	т	я	п			NUM	ПЯТЬ	NUM acc - -	Ь
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2628																
+	Я	Я	SPRO sg 1p - nom			.   _Я_ очень боялась туда	я						SPRO	Я	SPRO sg 1p - nom	Я
+	очень	ОЧЕНЬ	ADV -			  Я _очень_ боялась туда ехать	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	боялась	БОЯТЬСЯ	V ipf praet sg indic f -			 Я очень _боялась_ туда ехать ,	ь	с	а	л	я	о	V	БОЯТЬСЯ	V ipf praet sg indic f -	Я
+	туда	ТУДА	ADV -			Я очень боялась _туда_ ехать , потому что	а	д	у	т			ADV	ТУДА	ADV -	А
+	ехать	ЕХАТЬ	V ipf - - inf - -			очень боялась туда _ехать_ , потому что родители	ь	т	а	х	е		V	ЕХАТЬ	V ipf - - inf - -	Ь
+	,	,	PUNCT										PUNCT			
+	потому что	потому что	CONJ			туда ехать , _потому что_ родители объяснили мне	о	т	ч	 	у	м	CONJ	потому что	CONJ	о
+	родители	РОДИТЕЛЬ	S m anim nom pl			ехать , потому что _родители_ объяснили мне ,	и	л	е	т	и	д	S	РОДИТЕЛЬ	S m anim nom pl	Ь
+	объяснили	ОБЪЯСНИТЬ	V pf praet pl indic - -			, потому что родители _объяснили_ мне , что	и	л	и	н	с	я	V	ОБЪЯСНИТЬ	V pf praet pl indic - -	Ь
+	мне	Я	SPRO sg 1p - dat			потому что родители объяснили _мне_ , что это	е	н	м				SPRO	Я	SPRO sg 1p - dat	Я
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	CONJ			объяснили мне , _что_ это остров ,	о	т	ч				CONJ	ЧТО	CONJ	О
+	это	ЭТО	SPRO n - nom sg			мне , что _это_ остров , и	о	т	э				SPRO	ЭТО	S n - nom sg	О
+	остров	ОСТРОВ	S m inan nom sg			, что это _остров_ , и в	в	о	р	т	с	о	S	ОСТРОВ	S m inan nom sg	В
+	,	,	PUNCT										PUNCT			
+	и	И	CONJ			это остров , _и_ в моём понимании	и						CONJ	И	CONJ	И
+	в	В	PR			остров , и _в_ моём понимании остров	в						PR	В	PR	В
+	моём	МОЙ	APRO - loc sg plen n -			, и в _моём_ понимании остров ...	м	ё	о	м			APRO	МОЙ	A - loc sg plen n -	Й
+	понимании	ПОНИМАНИЕ	S n inan loc sg			и в моём _понимании_ остров ... эээ	и	и	н	а	м	и	S	ПОНИМАНИЕ	S n inan loc sg	Е
+	остров	ОСТРОВ	S m inan nom sg			в моём понимании _остров_ ... эээ ...	в	о	р	т	с	о	S	ОСТРОВ	S m inan acc sg	В
+	...	...	PUNCT										PUNCT			
+	эээ	Э-Э	INTJ			понимании остров ... _эээ_ ... а они	э	э	э				NONLEX	ЭЭЭ	NONLEX	Э
+	...	...	PUNCT										PUNCT			
+	а	А	CONJ			... эээ ... _а_ они мне ,	а						CONJ	А	CONJ	А
+	они	ОНИ	SPRO pl 3p - nom			эээ ... а _они_ мне , наверное	и	н	о				SPRO	ОНИ	SPRO pl - - nom	И
+	мне	Я	SPRO sg 1p - dat			... а они _мне_ , наверное ,	е	н	м				SPRO	Я	SPRO sg 1p - dat	Я
+	,	,	PUNCT										PUNCT			
+	наверное	НАВЕРНОЕ	PARENTH  -			они мне , _наверное_ , объяснили ,	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	объяснили	ОБЪЯСНИТЬ	V pf praet pl indic - 3p			, наверное , _объяснили_ , что остров	и	л	и	н	с	я	V	ОБЪЯСНИТЬ	V pf praet pl indic - -	Ь
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	CONJ			, объяснили , _что_ остров омывается со	о	т	ч				CONJ	ЧТО	CONJ	О
+	остров	ОСТРОВ	S m inan nom sg			объяснили , что _остров_ омывается со всех	в	о	р	т	с	о	S	ОСТРОВ	S m inan nom sg	В
+	омывается	ОМЫВАТЬСЯ	V ipf praes sg indic - 3p			, что остров _омывается_ со всех сторон	я	с	т	е	а	в	V	ОМЫВАТЬСЯ	V ipf praes sg indic - 3p	Я
+	со	СО	PR			что остров омывается _со_ всех сторон водой	о	с					PR	СО	PR	О
+	всех	ВЕСЬ	APRO - gen pl plen - -			остров омывается со _всех_ сторон водой и	х	е	с	в			APRO	ВЕСЬ	A - gen pl plen - -	Ь
+	сторон	СТОРОНА	S f inan gen pl			омывается со всех _сторон_ водой и добраться	н	о	р	о	т	с	S	СТОРОНА	S f inan gen pl	А
+	водой	ВОДА	S f inan ins sg			со всех сторон _водой_ и добраться до	й	о	д	о	в		S	ВОДА	S f inan ins sg	А
+	и	И	CONJ			всех сторон водой _и_ добраться до него	и						CONJ	И	CONJ	И
+	добраться	ДОБРАТЬСЯ	V pf - - inf - -			сторон водой и _добраться_ до него можно	я	с	ь	т	а	р	V	ДОБРАТЬСЯ	V pf - - inf - -	Я
+	до	ДО	PR			водой и добраться _до_ него можно было	о	д					PR	ДО	PR	О
+	него	ОН	SPRO sg 3p m gen			и добраться до _него_ можно было только	о	г	е	н			SPRO	ОН	SPRO sg 3p m acc	Н
+	можно	МОЖНО	PRAEDIC			добраться до него _можно_ было только на	о	н	ж	о	м		PRAEDIC	МОЖНО	PRAEDIC	О
+	было	БЫТЬ	V ipf praet sg indic n -			до него можно _было_ только на теплоходе	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	только	ТОЛЬКО	PART			него можно было _только_ на теплоходе .	о	к	ь	л	о	т	PART	ТОЛЬКО	PART	О
+	на	НА	PR			можно было только _на_ теплоходе . 	а	н					PR	НА	PR	А
+	теплоходе	ТЕПЛОХОД	S m inan loc sg			было только на _теплоходе_ .  	е	д	о	х	о	л	S	ТЕПЛОХОД	S m inan loc sg	Д
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2629																
+	А	А	CONJ			.   _А_ я очень сильно	а						CONJ	А	CONJ	А
+	я	Я	SPRO sg 1p - nom			  А _я_ очень сильно боюсь	я						SPRO	Я	SPRO sg 1p - nom	Я
+	очень	ОЧЕНЬ	ADV -			 А я _очень_ сильно боюсь воды	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	сильно	СИЛЬНО	ADV -			А я очень _сильно_ боюсь воды ,	о	н	ь	л	и	с	ADV	СИЛЬНО	ADV -	О
+	боюсь	БОЯТЬСЯ	V ipf praes sg indic - 1p			я очень сильно _боюсь_ воды , 	ь	с	ю	о	б		V	БОЯТЬСЯ	V ipf praes sg indic - 1p	Я
+	воды	ВОДА	S f inan gen sg			очень сильно боюсь _воды_ ,  тыж	ы	д	о	в			S	ВОДА	S f inan gen sg	А
+	,	,	PUNCT										PUNCT			
+"<distinct form="""																
+<dist>	тыж															
+""">"																
+	ты	ТЫ	SPRO sg 2p - nom			 тыж  _ты_ же  знаешь	ы	т					SPRO	ТЫ	SPRO sg 2p - nom	Ы
+	же	ЖЕ	PART			тыж  ты _же_  знаешь .	е	ж					PART	ЖЕ	PART	Е
+</distinct>																
+	знаешь	ЗНАТЬ	V ipf praes sg indic - 2p			ты же  _знаешь_ .  	ь	ш	е	а	н	з	V	ЗНАТЬ	V ipf praes sg indic - 2p	Ь
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2630																
+	Боюсь	БОЯТЬСЯ	V ipf praes sg indic - 1p			.   _Боюсь_ моря , боюсь	ь	с	ю	о	б		V	БОЯТЬСЯ	V ipf praes sg indic - 1p	Я
+	моря	МОРЕ	S n inan gen sg			  Боюсь _моря_ , боюсь в	я	р	о	м			S	МОРЕ	S n inan gen sg	Е
+	,	,	PUNCT										PUNCT			
+	боюсь	БОЯТЬСЯ	V ipf praes sg indic - 1p			Боюсь моря , _боюсь_ в бассейне плавать	ь	с	ю	о	б		V	БОЯТЬСЯ	V ipf praes sg indic - 1p	Я
+	в	В	PR			моря , боюсь _в_ бассейне плавать ,	в						PR	В	PR	В
+	бассейне	БАССЕЙН	S m inan loc sg			, боюсь в _бассейне_ плавать , если	е	н	й	е	с	с	S	БАССЕЙН	S m inan loc sg	Н
+	плавать	ПЛАВАТЬ	V ipf - - inf - -			боюсь в бассейне _плавать_ , если я	ь	т	а	в	а	л	V	ПЛАВАТЬ	V ipf - - inf - -	Ь
+	,	,	PUNCT										PUNCT			
+	если	ЕСЛИ	CONJ			бассейне плавать , _если_ я н ...	и	л	с	е			CONJ	ЕСЛИ	CONJ	И
+	я	Я	SPRO sg 1p - nom			плавать , если _я_ н ... чувствую	я						SPRO	Я	SPRO sg 1p - nom	Я
+	н	Н	NONLEX			, если я _н_ ... чувствую ,	н						NONLEX	Н	NONLEX	Н
+	...	...	PUNCT										PUNCT			
+	чувствую	ЧУВСТВОВАТЬ	V ipf praes sg indic - 1p			я н ... _чувствую_ , что я	ю	у	в	т	с	в	V	ЧУВСТВОВАТЬ	V ipf praes sg indic - 1p	Ь
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	CONJ			... чувствую , _что_ я не достаю	о	т	ч				CONJ	ЧТО	CONJ	О
+	я	Я	SPRO sg 1p - nom			чувствую , что _я_ не достаю дна	я						SPRO	Я	SPRO sg 1p - nom	Я
+	не	НЕ	PART			, что я _не_ достаю дна .	е	н					PART	НЕ	PART	Е
+	достаю	ДОСТАВАТЬ	V ipf praes sg indic - 1p			что я не _достаю_ дна . 	ю	а	т	с	о	д	V	ДОСТАВАТЬ	V ipf praes sg indic - 1p	Ь
+	дна	ДНО	S n inan gen sg			я не достаю _дна_ .  	а	н	д				S	ДНО	S n inan gen sg	О
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2631																
+	Э	Э-Э	INTJ			.   _Э_ , и когда	э						INTJ	Э	INTJ	Э
+	,	,	PUNCT										PUNCT			
+	и	И	CONJ			 Э , _и_ когда ... папа	и						CONJ	И	CONJ	И
+	когда	КОГДА	CONJ			Э , и _когда_ ... папа купил	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	...	...	PUNCT										PUNCT			
+	папа	ПАПА	S m anim nom sg			и когда ... _папа_ купил билеты на	а	п	а	п			S	ПАПА	S m anim nom sg	А
+	купил	КУПИТЬ	V pf praet sg indic m -			когда ... папа _купил_ билеты на самолет	л	и	п	у	к		V	КУПИТЬ	V pf praet sg indic m -	Ь
+	билеты	БИЛЕТ	S m inan acc pl			... папа купил _билеты_ на самолет и	ы	т	е	л	и	б	S	БИЛЕТ	S m inan acc pl	Т
+	на	НА	PR			папа купил билеты _на_ самолет и сказал	а	н					PR	НА	PR	А
+	самолет	САМОЛЕТ	S m inan acc sg			купил билеты на _самолет_ и сказал ,	т	е	л	о	м	а	S	САМОЛЕТ	S f inan acc sg	Т
+	и	И	CONJ			билеты на самолет _и_ сказал , что	и						CONJ	И	CONJ	И
+	сказал	СКАЗАТЬ	V pf praet sg indic m -			на самолет и _сказал_ , что мы	л	а	з	а	к	с	V	СКАЗАТЬ	V pf praet sg indic m -	Ь
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	CONJ			и сказал , _что_ мы полетим самолетом	о	т	ч				CONJ	ЧТО	CONJ	О
+	мы	МЫ	SPRO pl 1p - nom			сказал , что _мы_ полетим самолетом ,	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	полетим	ПОЛЕТЕТЬ	V pf fut pl indic - 1p			, что мы _полетим_ самолетом , я	м	и	т	е	л	о	V	ПОЛЕТЕТЬ	V pf - pl imper - 1p	Ь
+	самолетом	САМОЛЕТ	S m inan ins sg			что мы полетим _самолетом_ , я очень	м	о	т	е	л	о	S	САМОЛЕТ	S m inan ins sg	Т
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			полетим самолетом , _я_ очень сильно обрадовалась	я						SPRO	Я	SPRO sg 1p - nom	Я
+	очень	ОЧЕНЬ	ADV -			самолетом , я _очень_ сильно обрадовалась .	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	сильно	СИЛЬНО	ADV -			, я очень _сильно_ обрадовалась . 	о	н	ь	л	и	с	ADV	СИЛЬНО	ADV -	О
+	обрадовалась	ОБРАДОВАТЬСЯ	V pf praet sg indic f -			я очень сильно _обрадовалась_ .  	ь	с	а	л	а	в	V	ОБРАДОВАТЬСЯ	V pf praet sg indic f -	Я
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2632																
+	Поскольку	ПОСКОЛЬКУ	CONJ			.   _Поскольку_ я прожила там	у	к	ь	л	о	к	CONJ	ПОСКОЛЬКУ	CONJ	У
+	я	Я	SPRO sg 1p - nom			  Поскольку _я_ прожила там очень	я						SPRO	Я	SPRO sg 1p - nom	Я
+	прожила	ПРОЖИТЬ	V pf praet sg indic f 1p			 Поскольку я _прожила_ там очень долго	а	л	и	ж	о	р	V	ПРОЖИТЬ	V pf praet sg indic f -	Ь
+	там	ТАМ	ADV -			Поскольку я прожила _там_ очень долго ,	м	а	т				ADV	ТАМ	ADV -	М
+	очень	ОЧЕНЬ	ADV -			я прожила там _очень_ долго , я	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	долго	ДОЛГО	ADV -			прожила там очень _долго_ , я в	о	г	л	о	д		ADV	ДОЛГО	ADV -	О
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			очень долго , _я_ в первый класс	я						SPRO	Я	SPRO sg 1p - nom	Я
+	в	В	PR			долго , я _в_ первый класс там	в						PR	В	PR	В
+	первый	ПЕРВЫЙ	ANUM - acc sg plen m inan			, я в _первый_ класс там пошла	й	ы	в	р	е	п	A	ПЕРВЫЙ	A - acc sg plen m inan	Й
+	класс	КЛАСС	S m inan acc sg			я в первый _класс_ там пошла ,	с	с	а	л	к		S	КЛАСС	S m inan acc sg	С
+	там	ТАМ	ADV -			в первый класс _там_ пошла , я	м	а	т				ADV	ТАМ	ADV -	М
+	пошла	ПОЙТИ	V pf praet sg indic f -			первый класс там _пошла_ , я даже	а	л	ш	о	п		V	ПОЙТИ	V pf praet sg indic f -	И
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			там пошла , _я_ даже сейчас ,	я						SPRO	Я	SPRO sg 1p - nom	Я
+	даже	ДАЖЕ	PART			пошла , я _даже_ сейчас , мне	е	ж	а	д			PART	ДАЖЕ	PART	Е
+	сейчас	СЕЙЧАС	ADV -			, я даже _сейчас_ , мне 	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+	,	,	PUNCT										PUNCT			
+	мне	Я	SPRO sg 1p - dat			даже сейчас , _мне_  кажца 	е	н	м				SPRO	Я	SPRO sg 1p - dat	Я
+"<distinct form="""																
+<dist>	кажца															
+""">"																
+	кажется	КАЖЕТСЯ	V ipf praes sg indic - 3p			 кажца  _кажется_  , ощущаю	я	с	т	е	ж	а	ADV	КАЖЕТСЯ	ADV -	Я
+</distinct>																
+	,	,	PUNCT										PUNCT			
+	ощущаю	ОЩУЩАТЬ	V ipf praes sg indic - 1p			кажется  , _ощущаю_ иногда запах .	ю	а	щ	у	щ	о	V	ОЩУЩАТЬ	V ipf praes sg indic - 1p	Ь
+	иногда	ИНОГДА	ADV -			 , ощущаю _иногда_ запах . 	а	д	г	о	н	и	ADV	ИНОГДА	ADV -	А
+	запах	ЗАПАХ	S m inan acc sg			, ощущаю иногда _запах_ .  	х	а	п	а	з		S	ЗАПАХ	S m inan nom sg	Х
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2633																
+	Вот	ВОТ	PART			.   _Вот_ запах ... 	т	о	в				PART	ВОТ	PART	Т
+	запах	ЗАПАХ	S m inan nom sg			  Вот _запах_ ...  	х	а	п	а	з		S	ЗАПАХ	S m inan nom sg	Х
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2634																
+	Ассоциации	АССОЦИАЦИЯ	S f inan nom pl			...   _Ассоциации_ такие , вот	и	и	ц	а	и	ц	S	АССОЦИАЦИЯ	S f inan gen sg	Я
+	такие	ТАКОЙ	APRO - nom pl plen - -			  Ассоциации _такие_ , вот у	е	и	к	а	т		APRO	ТАКОЙ	A - nom pl plen - -	Й
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			Ассоциации такие , _вот_ у кого-то возникают	т	о	в				PART	ВОТ	PART	Т
+	у	У	PR			такие , вот _у_ кого-то возникают ассоциации	у						PR	У	PR	У
+	кого-то	КТО-ТО	SPRO m - gen sg			, вот у _кого-то_ возникают ассоциации ,	о	т	-	о	г	о	S	КТО-ТО	S m - gen sg	О
+	возникают	ВОЗНИКАТЬ	V ipf praes pl indic - 3p			вот у кого-то _возникают_ ассоциации , там	т	ю	а	к	и	н	V	ВОЗНИКАТЬ	V ipf praes pl indic - 3p	Ь
+	ассоциации	АССОЦИАЦИЯ	S f inan nom pl			у кого-то возникают _ассоциации_ , там ,	и	и	ц	а	и	ц	S	АССОЦИАЦИЯ	S f inan nom pl	Я
+	,	,	PUNCT										PUNCT			
+	там	ТАМ	PART			возникают ассоциации , _там_ , при виде	м	а	т				ADV	ТАМ	ADV -	М
+	,	,	PUNCT										PUNCT			
+	при	ПРИ	PR			, там , _при_ виде чего-то ,	и	р	п				PR	ПРИ	PR	И
+	виде	ВИД	S m inan loc sg			там , при _виде_ чего-то , у	е	д	и	в			S	ВИД	S m inan loc sg	Д
+	чего-то	ЧТО-ТО	SPRO n inan gen sg			, при виде _чего-то_ , у меня	о	т	-	о	г	е	SPRO	ЧТО-ТО	S n - gen sg	О
+	,	,	PUNCT										PUNCT			
+	у	У	PR			виде чего-то , _у_ меня возникают ассоциации	у						PR	У	PR	У
+	меня	Я	SPRO sg 1p - gen			чего-то , у _меня_ возникают ассоциации при	я	н	е	м			SPRO	Я	SPRO sg 1p - acc	Я
+	возникают	ВОЗНИКАТЬ	V ipf praes pl indic - 3p			, у меня _возникают_ ассоциации при ощущении	т	ю	а	к	и	н	V	ВОЗНИКАТЬ	V ipf praes pl indic - 3p	Ь
+	ассоциации	АССОЦИАЦИЯ	S f inan nom pl			у меня возникают _ассоциации_ при ощущении запаха	и	и	ц	а	и	ц	S	АССОЦИАЦИЯ	S f inan nom pl	Я
+	при	ПРИ	PR			меня возникают ассоциации _при_ ощущении запаха ,	и	р	п				PR	ПРИ	PR	И
+	ощущении	ОЩУЩЕНИЕ	S n inan loc sg			возникают ассоциации при _ощущении_ запаха , особенно	и	и	н	е	щ	у	S	ОЩУЩЕНИЕ	S n inan loc sg	Е
+	запаха	ЗАПАХ	S m inan gen sg			ассоциации при ощущении _запаха_ , особенно вот	а	х	а	п	а	з	S	ЗАПАХ	S m inan gen sg	Х
+	,	,	PUNCT										PUNCT			
+	особенно	ОСОБЕННО	ADV -			ощущении запаха , _особенно_ вот запах осени	о	н	н	е	б	о	ADV	ОСОБЕННО	ADV -	О
+	вот	ВОТ	PART			запаха , особенно _вот_ запах осени ,	т	о	в				PART	ВОТ	PART	Т
+	запах	ЗАПАХ	S m inan nom sg			, особенно вот _запах_ осени , листвы	х	а	п	а	з		S	ЗАПАХ	S m inan nom sg	Х
+	осени	ОСЕНЬ	S f inan gen sg			особенно вот запах _осени_ , листвы ,	и	н	е	с	о		S	ОСЕНЬ	S f inan gen sg	Ь
+	,	,	PUNCT										PUNCT			
+	листвы	ЛИСТВА	S f inan gen sg			запах осени , _листвы_ , грибов .	ы	в	т	с	и	л	S	ЛИСТВА	S f inan gen sg	А
+	,	,	PUNCT										PUNCT			
+	грибов	ГРИБ	S m inan gen pl			, листвы , _грибов_ .  	в	о	б	и	р	г	S	ГРИБ	S m inan gen pl	Б
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2635																
+# speaker = Алёна																
+# sent = 2636																
+"<distinct form="""																
+<dist>	иии															
+""">"																
+	И	И	CONJ			 иии  _И_  очень яркое	и						CONJ	И	S - - nonflex -	И
+</distinct>																
+	очень	ОЧЕНЬ	ADV -			 И  _очень_ яркое вппечатление у	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	яркое	ЯРКИЙ	A - nom sg plen n -			И  очень _яркое_ вппечатление у меня	е	о	к	р	я		A	ЯРКИЙ	A - nom sg plen n -	Й
+	вппечатление	ВПЕЧАТЛЕНИЕ	S n inan nom sg	distort		 очень яркое _вппечатление_ у меня осталось	е	и	н	е	л	т	S	ВППЕЧАТЛЕНИЕ	S n inan nom sg	Е
+	у	У	PR			очень яркое вппечатление _у_ меня осталось ,	у						PR	У	PR	У
+	меня	Я	SPRO sg 1p - gen			яркое вппечатление у _меня_ осталось , ну	я	н	е	м			SPRO	Я	SPRO sg 1p - acc	Я
+	осталось	ОСТАТЬСЯ	V pf praet sg indic n -			вппечатление у меня _осталось_ , ну ,	ь	с	о	л	а	т	V	ОСТАТЬСЯ	V pf praet sg indic n -	Я
+	,	,	PUNCT										PUNCT			
+	ну	НУ	PART			меня осталось , _ну_ , наверное ,	у	н					PART	НУ	PART	У
+	,	,	PUNCT										PUNCT			
+	наверное	НАВЕРНОЕ	ADV -			, ну , _наверное_ , от Кипра	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	от	ОТ	PR			, наверное , _от_ Кипра . 	т	о					PR	ОТ	PR	Т
+	Кипра	КИПР	S m inan gen sg			наверное , от _Кипра_ .  	а	р	п	и	к		S	КИПР	S m inan gen sg	Р
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2637																
+	Кипр	КИПР	S m inan nom sg			.   _Кипр_ ...  	р	п	и	к			S	КИПР	S m inan nom sg	Р
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2638																
+	Когда	КОГДА	CONJ			...   _Когда_ прилетаешь , кажется	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	прилетаешь	ПРИЛЕТАТЬ	V ipf praes sg indic - 2p			  Когда _прилетаешь_ , кажется ,	ь	ш	е	а	т	е	V	ПРИЛЕТАТЬ	V ipf praes sg indic - 2p	Ь
+	,	,	PUNCT										PUNCT			
+	кажется	КАЖЕТСЯ	V ipf praes sg indic - 3p			Когда прилетаешь , _кажется_ , что такая	я	с	т	е	ж	а	ADV	КАЖЕТСЯ	ADV -	Я
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	CONJ			, кажется , _что_ такая выжженая местность	о	т	ч				CONJ	ЧТО	CONJ	О
+	такая	ТАКОЙ	APRO - nom sg plen f -			кажется , что _такая_ выжженая местность ,	я	а	к	а	т		APRO	ТАКОЙ	A - nom sg plen f -	Й
+	выжженая	ВЫЖЖЕНЫЙ	A - nom sg plen f -			, что такая _выжженая_ местность , выжженая	я	а	н	е	ж	ж	A	ВЫЖЖЕНЫЙ	A - nom sg plen f -	Й
+	местность	МЕСТНОСТЬ	S f inan nom sg			что такая выжженая _местность_ , выжженая солнцем	ь	т	с	о	н	т	S	МЕСТНОСТЬ	S f inan nom sg	Ь
+	,	,	PUNCT										PUNCT			
+	выжженая	ВЫЖЖЕНЫЙ	A - nom sg plen f -			выжженая местность , _выжженая_ солнцем , но	я	а	н	е	ж	ж	A	ВЫЖЖЕНЫЙ	A - nom sg plen f -	Й
+	солнцем	СОЛНЦЕ	S n inan ins sg			местность , выжженая _солнцем_ , но 	м	е	ц	н	л	о	S	СОЛНЦЕ	S n inan ins sg	Е
+	,	,	PUNCT										PUNCT			
+	но	НО	CONJ			выжженая солнцем , _но_  когдааа 	о	н					CONJ	НО	CONJ	О
+"<distinct form="""																
+<dist>	когдааа															
+""">"																
+	когда	КОГДА	CONJ			 когдааа  _когда_  находишься непосредственно	а	д	г	о	к		ADV	КОГДА	ADV -	А
+</distinct>																
+	находишься	НАХОДИТЬСЯ	V ipf praes sg indic - 2p			 когда  _находишься_ непосредственно уже в	я	с	ь	ш	и	д	V	НАХОДИТЬСЯ	V ipf praes sg indic - 2p	Я
+	непосредственно	НЕПОСРЕДСТВЕННО	ADV -			когда  находишься _непосредственно_ уже в городе	о	н	н	е	в	т	ADV	НЕПОСРЕДСТВЕННО	ADV -	О
+	уже	УЖЕ	ADV -			 находишься непосредственно _уже_ в городе ,	е	ж	у				ADV	УЖЕ	ADV -	Е
+	в	В	PR			находишься непосредственно уже _в_ городе , в	в						PR	В	PR	В
+	городе	ГОРОД	S m inan loc sg			непосредственно уже в _городе_ , в курортной	е	д	о	р	о	г	S	ГОРОД	S m inan loc sg	Д
+	,	,	PUNCT										PUNCT			
+	в	В	PR			в городе , _в_ курортной зоне ,	в						PR	В	PR	В
+	курортной	КУРОРТНЫЙ	A - loc sg plen f -			городе , в _курортной_ зоне , то	й	о	н	т	р	о	A	КУРОРТНЫЙ	A - loc sg plen f -	Й
+	зоне	ЗОНА	S f inan loc sg			, в курортной _зоне_ , то очень	е	н	о	з			S	ЗОНА	S f inan loc sg	А
+	,	,	PUNCT										PUNCT			
+	то	ТО	CONJ			курортной зоне , _то_ очень живописные такие	о	т					CONJ	ТО	CONJ	О
+	очень	ОЧЕНЬ	ADV -			зоне , то _очень_ живописные такие места	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	живописные	ЖИВОПИСНЫЙ	A - nom pl plen - -			, то очень _живописные_ такие места .	е	ы	н	с	и	п	A	ЖИВОПИСНЫЙ	A - nom pl plen - -	Й
+	такие	ТАКОЙ	APRO - nom pl plen - -			то очень живописные _такие_ места . 	е	и	к	а	т		APRO	ТАКОЙ	A - nom pl plen - -	Й
+	места	МЕСТО	S n inan nom pl			очень живописные такие _места_ .  	а	т	с	е	м		S	МЕСТО	S n inan nom pl	О
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2639																
+	И	И	CONJ			.   _И_ , помнишь ,	и						CONJ	И	CONJ	И
+	,	,	PUNCT										PUNCT			
+	помнишь	ПОМНИТЬ	V ipf praes sg indic - 2p			 И , _помнишь_ , наши впечатления	ь	ш	и	н	м	о	V	ПОМНИТЬ	V ipf praes sg indic - 2p	Ь
+	,	,	PUNCT										PUNCT			
+	наши	НАШ	APRO - acc pl plen - -			, помнишь , _наши_ впечатления о цвете	и	ш	а	н			APRO	НАШ	A - nom pl plen - -	Ш
+	впечатления	ВПЕЧАТЛЕНИЕ	S n inan acc pl			помнишь , наши _впечатления_ о цвете моря	я	и	н	е	л	т	S	ВПЕЧАТЛЕНИЕ	S n inan nom pl	Е
+	о	О	PR			, наши впечатления _о_ цвете моря ,	о						PR	О	PR	О
+	цвете	ЦВЕТ	S m inan loc sg			наши впечатления о _цвете_ моря , хах	е	т	е	в	ц		S	ЦВЕТ	S m inan loc sg	Т
+	моря	МОРЕ	S n inan gen sg			впечатления о цвете _моря_ , хах ?	я	р	о	м			S	МОРЕ	S n inan gen sg	Е
+	,	,	PUNCT										PUNCT			
+	хах	ХАХ	NONLEX			цвете моря , _хах_ ?  	х	а	х				S	ХАХ	S m anim nom sg	Х
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2640																
+	Когда	КОГДА	CONJ			?   _Когда_ мы воскликнули :	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	мы	МЫ	SPRO pl 1p - nom			"  Когда _мы_ воскликнули : """	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	воскликнули	ВОСКЛИКНУТЬ	V pf praet pl indic - -			" Когда мы _воскликнули_ : "" Ах"	и	л	у	н	к	и	V	ВОСКЛИКНУТЬ	V pf praet pl indic - -	Ь
+	:	:	PUNCT										PUNCT			
+	""""	""""	PUNCT										PUNCT			
+	Ах	АХ	INTJ			"воскликнули : "" _Ах_ , как на"	х	а					INTJ	АХ	INTJ	Х
+	,	,	PUNCT										PUNCT			
+	как	КАК	CONJ			""" Ах , _как_ на плакате """	к	а	к				ADV	КАК	ADV -	К
+	на	НА	PR			"Ах , как _на_ плакате "" ."	а	н					PR	НА	PR	А
+	плакате	ПЛАКАТ	S m inan loc sg			", как на _плакате_ "" . "	е	т	а	к	а	л	S	ПЛАКАТ	S m inan loc sg	Т
+	""""	""""	PUNCT										PUNCT			
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2641																
+	Что	ЧТО	SPRO n inan nom sg			.   _Что_ еще ? ..	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+	еще	ЕЩЕ	ADV -			  Что _еще_ ? .. 	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2642																
+	Ну	НУ	PART			..   _Ну_ Барселона , наверное	у	н					PART	НУ	PART	У
+	Барселона	БАРСЕЛОНА	S f inan nom sg			  Ну _Барселона_ , наверное ,	а	н	о	л	е	с	S	БАРСЕЛОНА	S f inan nom sg	А
+	,	,	PUNCT										PUNCT			
+	наверное	НАВЕРНОЕ	PARENTH -			Ну Барселона , _наверное_ , произвела впечатление	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	произвела	ПРОИЗВЕСТИ	V pf praet sg indic f -			, наверное , _произвела_ впечатление , потому что	а	л	е	в	з	и	V	ПРОИЗВЕСТИ	V pf praet sg indic f -	И
+	впечатление	ВПЕЧАТЛЕНИЕ	S n inan acc sg			наверное , произвела _впечатление_ , потому что в	е	и	н	е	л	т	S	ВПЕЧАТЛЕНИЕ	S n inan acc sg	Е
+	,	,	PUNCT										PUNCT			
+	потому что	потому что	CONJ			произвела впечатление , _потому что_ в первый раз	о	т	ч	 	у	м	CONJ	потому что	CONJ	о
+	в	В	PR			впечатление , потому что _в_ первый раз я	в						PR	В	PR	В
+	первый	ПЕРВЫЙ	ANUM - acc sg plen m inan			, потому что в _первый_ раз я там	й	ы	в	р	е	п	A	ПЕРВЫЙ	A - acc sg plen m inan	Й
+	раз	РАЗ	S m inan acc sg			потому что в первый _раз_ я там побывала	з	а	р				S	РАЗ	S m inan acc sg	З
+	я	Я	SPRO sg 1p - nom			в первый раз _я_ там побывала в	я						SPRO	Я	SPRO sg 1p - nom	Я
+	там	ТАМ	ADV -			первый раз я _там_ побывала в девяностых	м	а	т				ADV	ТАМ	ADV -	М
+	побывала	ПОБЫВАТЬ	V pf praet sg indic f -			раз я там _побывала_ в девяностых годах	а	л	а	в	ы	б	V	ПОБЫВАТЬ	V pf praet sg indic f -	Ь
+	в	В	PR			я там побывала _в_ девяностых годах 	в						PR	В	PR	В
+	девяностых	ДЕВЯНОСТЫЙ	ANUM - loc pl plen - -			там побывала в _девяностых_ годах  иии	х	ы	т	с	о	н	ANUM	ДЕВЯНОСТЫЙ	A - gen pl plen - -	Й
+	годах	ГОД	S m inan loc pl			побывала в девяностых _годах_  иии 	х	а	д	о	г		S	ГОД	S m inan loc pl	Д
+"<distinct form="""																
+<dist>	иии															
+""">"																
+	и	И	CONJ			 иии  _и_  после такой	и						CONJ	И	CONJ	И
+</distinct>																
+	после	ПОСЛЕ	PR			 и  _после_ такой достаточно суровой	е	л	с	о	п		PR	ПОСЛЕ	PR	Е
+	такой	ТАКОЙ	APRO - gen sg plen f -			и  после _такой_ достаточно суровой серой	й	о	к	а	т		APRO	ТАКОЙ	A - ins sg plen f -	Й
+	достаточно	ДОСТАТОЧНО	ADV -			 после такой _достаточно_ суровой серой Москвы	о	н	ч	о	т	а	ADV	ДОСТАТОЧНО	ADV -	О
+	суровой	СУРОВЫЙ	A - gen sg plen f -			после такой достаточно _суровой_ серой Москвы Барселона	й	о	в	о	р	у	A	СУРОВЫЙ	A - gen sg plen f -	Й
+	серой	СЕРЫЙ	A - gen sg plen f -			такой достаточно суровой _серой_ Москвы Барселона и	й	о	р	е	с		A	СЕРЫЙ	A - gen sg plen f -	Й
+	Москвы	МОСКВА	S f inan gen sg			достаточно суровой серой _Москвы_ Барселона и маленькие	ы	в	к	с	о	м	S	МОСКВА	S f inan gen sg	А
+	Барселона	БАРСЕЛОНА	S f inan nom sg			суровой серой Москвы _Барселона_ и маленькие городки	а	н	о	л	е	с	S	БАРСЕЛОНА	S f inan nom sg	А
+	и	И	CONJ			серой Москвы Барселона _и_ маленькие городки ,	и						CONJ	И	CONJ	И
+	маленькие	МАЛЕНЬКИЙ	A - nom pl plen - inan			Москвы Барселона и _маленькие_ городки , которые	е	и	к	ь	н	е	A	МАЛЕНЬКИЙ	A - acc pl plen - inan	Й
+	городки	ГОРОДОК	S m inan nom pl			Барселона и маленькие _городки_ , которые находятся	и	к	д	о	р	о	S	ГОРОДОК	S m inan acc pl	К
+	,	,	PUNCT										PUNCT			
+	которые	КОТОРЫЙ	APRO - nom pl plen - -			маленькие городки , _которые_ находятся недалеко от	е	ы	р	о	т	о	APRO	КОТОРЫЙ	A - nom pl plen - -	Й
+	находятся	НАХОДИТЬСЯ	V ipf praes pl indic - 3p			городки , которые _находятся_ недалеко от нее	я	с	т	я	д	о	V	НАХОДИТЬСЯ	V ipf praes pl indic - 3p	Я
+	недалеко	НЕДАЛЕКО	ADV -			, которые находятся _недалеко_ от нее ,	о	к	е	л	а	д	ADV	НЕДАЛЕКО	ADV -	О
+	от	ОТ	PR			которые находятся недалеко _от_ нее , такие	т	о					PR	ОТ	PR	Т
+	нее	ОНА	SPRO sg 3p f gen			находятся недалеко от _нее_ , такие 	е	е	н				SPRO	ОНА	SPRO sg 3p f acc	А
+	,	,	PUNCT										PUNCT			
+	такие	ТАКОЙ	APRO - nom pl plen - inan			от нее , _такие_  достачно 	е	и	к	а	т		APRO	ТАКОЙ	A - acc pl plen - inan	Й
+"<distinct form="""																
+<dist>	достачно															
+""">"																
+	достаточно	ДОСТАТОЧНО	ADV -			 достачно  _достаточно_  живописные места	о	н	ч	о	т	а	ADV	ДОСТАТОЧНО	ADV -	О
+</distinct>																
+	живописные	ЖИВОПИСНЫЙ	A - nom pl plen - inan			 достаточно  _живописные_ места . 	е	ы	н	с	и	п	A	ЖИВОПИСНЫЙ	A - acc pl plen - inan	Й
+	места	МЕСТО	S n inan nom pl			достаточно  живописные _места_ .  	а	т	с	е	м		S	МЕСТО	S n inan acc pl	О
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2643																
+# speaker = Алёна																
+# sent = 2644																
+	Где	ГДЕ	ADV -			   _Где_ еще я 	е	д	г				ADV	ГДЕ	ADV -	Е
+	еще	ЕЩЕ	ADV -			  Где _еще_ я  бы	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	я	Я	SPRO sg 1p - nom			 Где еще _я_  бы 	я						SPRO	Я	SPRO sg 1p - nom	Я
+"<distinct form="""																
+<dist>	бы															
+""">"																
+	была	БЫТЬ	V ipf praet sg indic f -			 бы  _была_  а ,	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+</distinct>																
+	а	А	INTJ			 была  _а_ , Санкт-Петербург !	а						CONJ	А	CONJ	А
+	,	,	PUNCT										PUNCT			
+	Санкт-Петербург	САНКТ-ПЕТЕРБУРГ	S m inan nom sg			 а , _Санкт-Петербург_ !  	г	р	у	б	р	е	S	САНКТ-ПЕТЕРБУРГ	S m inan nom sg	Г
+	!	!	PUNCT										PUNCT			
+																
+# sent = 2645																
+"<distinct form="""																
+<dist>	даа															
+""">"																
+	Да	ДА	PART			 даа  _Да_  , Санкт-Петербург	а	д					PART	ДА	PART	А
+</distinct>																
+	,	,	PUNCT										PUNCT			
+	Санкт-Петербург	САНКТ-ПЕТЕРБУРГ	S m inan nom sg			Да  , _Санкт-Петербург_ .  	г	р	у	б	р	е	S	САНКТ-ПЕТЕРБУРГ	S m inan nom sg	Г
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2646																
+	Культурная	КУЛЬТУРНЫЙ	A - nom sg plen f -			.   _Культурная_ столица , где	я	а	н	р	у	т	A	КУЛЬТУРНЫЙ	A - nom sg plen f -	Й
+	столица	СТОЛИЦА	S f inan nom sg			  Культурная _столица_ , где меня	а	ц	и	л	о	т	S	СТОЛИЦА	S f inan nom sg	А
+	,	,	PUNCT										PUNCT			
+	где	ГДЕ	ADV -			Культурная столица , _где_ меня  поразилаээ	е	д	г				ADV	ГДЕ	ADV -	Е
+	меня	Я	SPRO sg 1p - acc			столица , где _меня_  поразилаээ 	я	н	е	м			SPRO	Я	SPRO sg 1p - acc	Я
+"<distinct form="""																
+<dist>	поразилаээ															
+""">"																
+	поразила	ПОРАЗИТЬ	V pf praet sg indic f -			 поразилаээ  _поразила_  достаточно 	а	л	и	з	а	р	V	ПОРАЗИТЬ	V pf praet sg indic f -	Ь
+</distinct>																
+	достаточно	ДОСТАТОЧНО	ADV -			 поразила  _достаточно_  ткая 	о	н	ч	о	т	а	ADV	ДОСТАТОЧНО	ADV -	О
+"<distinct form="""																
+<dist>	ткая															
+""">"																
+	такая	ТАКОЙ	APRO - nom sg plen f -			 ткая  _такая_  такая ,	я	а	к	а	т		APRO	ТАКОЙ	A - nom sg plen f -	Й
+</distinct>																
+	такая	ТАКОЙ	APRO - nom sg plen f -		distort	 такая  _такая_ , бросающаяся в	я	а	к	а	т		APRO	ТАКОЙ	A - nom sg plen f -	Й
+	,	,	PUNCT										PUNCT			
+	бросающаяся	БРОСАТЬСЯ	PARTCP ipf inpraes nom sg plen f act -			 такая , _бросающаяся_ в глаза неухоженность	я	с	я	а	щ	ю	PARTCP	БРОСАТЬСЯ	PARTCP ipf inpraes nom sg plen f act -	Я
+	в	В	PR			такая , бросающаяся _в_ глаза неухоженность улиц	в						PR	В	PR	В
+	глаза	ГЛАЗ	S m inan acc pl			, бросающаяся в _глаза_ неухоженность улиц ,	а	з	а	л	г		S	ГЛАЗ	S m inan acc pl	З
+	неухоженность	НЕУХОЖЕННОСТЬ	S f inan nom sg			бросающаяся в глаза _неухоженность_ улиц , э	ь	т	с	о	н	н	S	НЕУХОЖЕННОСТЬ	S f inan acc sg	Ь
+	улиц	УЛИЦА	S f inan gen pl			в глаза неухоженность _улиц_ , э ,	ц	и	л	у			S	УЛИЦА	S f inan gen pl	А
+	,	,	PUNCT										PUNCT			
+	э	Э-Э	INTJ			неухоженность улиц , _э_ , неудобство транспорта	э						INTJ	Э	S - - nonflex -	Э
+	,	,	PUNCT										PUNCT			
+	неудобство	НЕУДОБСТВО	S n inan nom sg			, э , _неудобство_ транспорта общественного ,	о	в	т	с	б	о	S	НЕУДОБСТВО	S n inan nom sg	О
+	транспорта	ТРАНСПОРТ	S m inan gen sg			э , неудобство _транспорта_ общественного , что	а	т	р	о	п	с	S	ТРАНСПОРТ	S m inan gen sg	Т
+	общественного	ОБЩЕСТВЕННЫЙ	A - gen sg plen m -			, неудобство транспорта _общественного_ , что еще	о	г	о	н	н	е	A	ОБЩЕСТВЕННЫЙ	A - gen sg plen m -	Й
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	SPRO n inan nom sg			транспорта общественного , _что_ еще ... 	о	т	ч				CONJ	ЧТО	CONJ	О
+	еще	ЕЩЕ	ADV -			общественного , что _еще_ ...  	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2647																
+	Ну	НУ	PART			...   _Ну_ и в то	у	н					PART	НУ	PART	У
+	и	И	CONJ			  Ну _и_ в то же	и						CONJ	И	CONJ	И
+	в	В	PR			 Ну и _в_ то же время	в						PR	В	PR	В
+	то	ТОТ	APRO - acc sg plen n inan			Ну и в _то_ же время 	о	т					A	ТОТ	A - acc sg plen n inan	Т
+	же	ЖЕ	PART			и в то _же_ время  кнортрастээ	е	ж					PART	ЖЕ	PART	Е
+	время	ВРЕМЯ	S n inan acc sg			в то же _время_  кнортрастээ 	я	м	е	р	в		S	ВРЕМЯ	S n inan acc sg	Я
+"<distinct form="""																
+<dist>	кнортрастээ															
+""">"																
+	контраст	КОНТРАСТ	S m inan nom sg			 кнортрастээ  _контраст_  : очень	т	с	а	р	т	н	S	КОНТРАСТ	S m inan nom sg	Т
+</distinct>																
+	:	:	PUNCT										PUNCT			
+	очень	ОЧЕНЬ	ADV -			контраст  : _очень_ красивые исторические места	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	красивые	КРАСИВЫЙ	A - nom pl plen - inan			 : очень _красивые_ исторические места .	е	ы	в	и	с	а	A	КРАСИВЫЙ	A - acc pl plen - inan	Й
+	исторические	ИСТОРИЧЕСКИЙ	A - nom pl plen - inan			: очень красивые _исторические_ места . 	е	и	к	с	е	ч	A	ИСТОРИЧЕСКИЙ	A - acc pl plen - inan	Й
+	места	МЕСТО	S n inan nom pl			очень красивые исторические _места_ .  	а	т	с	е	м		S	МЕСТО	S n inan acc pl	О
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2648																
+	Э	Э-Э	INTJ			.   _Э_ , что еще	э						INTJ	Э	INTJ	Э
+	,	,	PUNCT										PUNCT			
+	что	ЧТО	SPRO n inan nom sg			 Э , _что_ еще ? 	о	т	ч				CONJ	ЧТО	CONJ	О
+	еще	ЕЩЕ	ADV -			Э , что _еще_ ?  	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2649																
+	Анапа	АНАПА	S f inan nom sg			?   _Анапа_ !  	а	п	а	н	а		S	АНАПА	S f inan nom sg	А
+	!	!	PUNCT										PUNCT			
+																
+# sent = 2650																
+"<distinct form="""																
+<dist>	воот															
+""">"																
+	Вот	ВОТ	PART			 воот  _Вот_  , 	т	о	в				PART	ВОТ	PART	Т
+</distinct>																
+	,	,	PUNCT										PUNCT			
+"<distinct form="""																
+<dist>	Анааапа															
+""">"																
+	Анапа	АНАПА	S f inan nom sg			 Анааапа  _Анапа_  ! 	а	п	а	н	а		S	АНАПА	S f inan nom sg	А
+</distinct>																
+	!	!	PUNCT										PUNCT			
+																
+# sent = 2651																
+	Первый	ПЕРВЫЙ	ANUM - acc sg plen m -			!   _Первый_ раз в Анапе	й	ы	в	р	е	п	A	ПЕРВЫЙ	A - nom sg plen m -	Й
+	раз	РАЗ	S m inan acc sg			  Первый _раз_ в Анапе мы	з	а	р				S	РАЗ	S m inan acc sg	З
+	в	В	PR			 Первый раз _в_ Анапе мы были	в						PR	В	PR	В
+	Анапе	АНАПА	S f inan loc sg			Первый раз в _Анапе_ мы были ,	е	п	а	н	а		S	АНАПА	S f inan loc sg	А
+	мы	МЫ	SPRO pl 1p - nom			раз в Анапе _мы_ были , когда	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	были	БЫТЬ	V ipf praet pl indic - -			в Анапе мы _были_ , когда учились	и	л	ы	б			V	БЫТЬ	V ipf praet pl indic - -	Ь
+	,	,	PUNCT										PUNCT			
+	когда	КОГДА	CONJ			мы были , _когда_ учились на четвертом	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	учились	УЧИТЬСЯ	V ipf praet pl indic - -			были , когда _учились_ на четвертом курсе	ь	с	и	л	и	ч	V	УЧИТЬСЯ	V ipf praet pl indic - -	Я
+	на	НА	PR			, когда учились _на_ четвертом курсе ,	а	н					PR	НА	PR	А
+	четвертом	ЧЕТВЕРТЫЙ	ANUM - loc sg plen m -			когда учились на _четвертом_ курсе , поехали	м	о	т	р	е	в	ANUM	ЧЕТВЕРТЫЙ	A - loc sg plen m -	Й
+	курсе	КУРС	S m inan loc sg			учились на четвертом _курсе_ , поехали в	е	с	р	у	к		S	КУРС	S m inan loc sg	С
+	,	,	PUNCT										PUNCT			
+	поехали	ПОЕХАТЬ	V pf praet pl indic - -			четвертом курсе , _поехали_ в сентябре -	и	л	а	х	е	о	V	ПОЕХАТЬ	V pf praet pl indic - -	Ь
+	в	В	PR			курсе , поехали _в_ сентябре - да	в						PR	В	PR	В
+	сентябре	СЕНТЯБРЬ	S m inan loc sg			, поехали в _сентябре_ - да ,	е	р	б	я	т	н	S	СЕНТЯБРЬ	S m inan loc sg	Ь
+	-	-	PUNCT										PUNCT			
+	да	ДА	CONJ			в сентябре - _да_ , могли себе	а	д					CONJ	ДА	CONJ	А
+	,	,	PUNCT										PUNCT			
+	могли	МОЧЬ	V ipf praet pl indic - -			- да , _могли_ себе позволить -	и	л	г	о	м		V	МОЧЬ	V ipf praet pl indic - -	Ь
+	себе	СЕБЯ	SPRO - - - dat			да , могли _себе_ позволить - в	е	б	е	с			SPRO	СЕБЯ	SPRO - - - dat	Я
+	позволить	ПОЗВОЛИТЬ	V pf - - inf - -			, могли себе _позволить_ - в преподавательску	ь	т	и	л	о	в	V	ПОЗВОЛИТЬ	V pf - - inf - -	Ь
+	-	-	PUNCT										PUNCT			
+	в	В	PR			себе позволить - _в_ преподавательску смену .	в						PR	В	PR	В
+	преподавательску	ПРЕПОДАВАТЕЛЬСКАЯ	A - acc sg plen f	distort		позволить - в _преподавательску_ смену . 	у	к	с	ь	л	е	S	ПРЕПОДАВАТЕЛЬСК	S m inan dat sg	К
+	смену	СМЕНА	S f inan acc sg			- в преподавательску _смену_ .  	у	н	е	м	с		S	СМЕНА	S f inan acc sg	А
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2652																
+	Там	ТАМ	ADV -			.   _Там_ встретили своих преподавателей	м	а	т				ADV	ТАМ	ADV -	М
+	встретили	ВСТРЕТИТЬ	V pf praet pl indic - -			  Там _встретили_ своих преподавателей ,	и	л	и	т	е	р	V	ВСТРЕТИТЬ	V pf praet pl indic - -	Ь
+	своих	СВОЙ	APRO - acc pl plen - anim			 Там встретили _своих_ преподавателей , аспирантов	х	и	о	в	с		APRO	СВОЙ	A - acc pl plen - anim	Й
+	преподавателей	ПРЕПОДАВАТЕЛЬ	S m anim acc pl			Там встретили своих _преподавателей_ , аспирантов ,	й	е	л	е	т	а	S	ПРЕПОДАВАТЕЛЬ	S m anim gen pl	Ь
+	,	,	PUNCT										PUNCT			
+	аспирантов	АСПИРАНТ	S m anim acc pl			своих преподавателей , _аспирантов_ , и на	в	о	т	н	а	р	S	АСПИРАНТ	S m anim gen pl	Т
+	,	,	PUNCT										PUNCT			
+	и	И	CONJ			, аспирантов , _и_ на вопрос ,	и						CONJ	И	CONJ	И
+	на	НА	PR			аспирантов , и _на_ вопрос , а	а	н					PR	НА	PR	А
+	вопрос	ВОПРОС	S m inan acc sg			, и на _вопрос_ , а что	с	о	р	п	о	в	S	ВОПРОС	S m inan acc sg	С
+	,	,	PUNCT										PUNCT			
+	а	А	CONJ			на вопрос , _а_ что мы здесь	а						CONJ	А	CONJ	А
+	что	ЧТО	CONJ			вопрос , а _что_ мы здесь делаем	о	т	ч				CONJ	ЧТО	CONJ	О
+	мы	МЫ	SPRO pl 1p - nom			, а что _мы_ здесь делаем ,	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	здесь	ЗДЕСЬ	ADV -			а что мы _здесь_ делаем , мы	ь	с	е	д	з		ADV	ЗДЕСЬ	ADV -	Ь
+	делаем	ДЕЛАТЬ	V ipf praes pl indic - 1p			что мы здесь _делаем_ , мы ответили	м	е	а	л	е	д	V	ДЕЛАТЬ	V ipf praes pl indic - 1p	Ь
+	,	,	PUNCT										PUNCT			
+	мы	МЫ	SPRO pl 1p - nom			"здесь делаем , _мы_ ответили : """	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	ответили	ОТВЕТИТЬ	V pf praet pl indic - -			"делаем , мы _ответили_ : "" Отдыхаем"	и	л	и	т	е	в	V	ОТВЕТИТЬ	V pf praet pl indic - -	Ь
+	:	:	PUNCT										PUNCT			
+	""""	""""	PUNCT										PUNCT			
+	Отдыхаем	ОТДЫХАТЬ	V ipf praes pl indic - 1p			"ответили : "" _Отдыхаем_ ! "" ."	м	е	а	х	ы	д	V	ОТДЫХАТЬ	V ipf praes pl indic - 1p	Ь
+	!	!	PUNCT										PUNCT			
+	""""	""""	PUNCT										PUNCT			
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2653																
+	Погода	ПОГОДА	S f inan nom sg			.   _Погода_ была не всегда	а	д	о	г	о	п	S	ПОГОДА	S f inan nom sg	А
+	была	БЫТЬ	V ipf praet sg indic f -			  Погода _была_ не всегда хорошая	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	не	НЕ	PART			 Погода была _не_ всегда хорошая ,	е	н					PART	НЕ	PART	Е
+	всегда	ВСЕГДА	ADV -			Погода была не _всегда_ хорошая , поэтому	а	д	г	е	с	в	ADV	ВСЕГДА	ADV -	А
+	хорошая	ХОРОШИЙ	A - nom sg plen f -			была не всегда _хорошая_ , поэтому отдыхали	я	а	ш	о	р	о	A	ХОРОШИЙ	A - nom sg plen f -	Й
+	,	,	PUNCT										PUNCT			
+	поэтому	ПОЭТОМУ	ADV -			всегда хорошая , _поэтому_ отдыхали мы ...	у	м	о	т	э	о	ADV	ПОЭТОМУ	ADV -	У
+	отдыхали	ОТДЫХАТЬ	V ipf praet pl indic - -			хорошая , поэтому _отдыхали_ мы ... э	и	л	а	х	ы	д	V	ОТДЫХАТЬ	V ipf praet pl indic - -	Ь
+	мы	МЫ	SPRO pl 1p - nom			, поэтому отдыхали _мы_ ... э ...	ы	м					SPRO	МЫ	SPRO pl 1p - nom	Ы
+	...	...	PUNCT										PUNCT			
+	э	Э-Э	INTJ			отдыхали мы ... _э_ ... на море	э						NONLEX	Э	NONLEX	Э
+	...	...	PUNCT										PUNCT			
+	на	НА	PR			... э ... _на_ море ... в	а	н					PR	НА	PR	А
+	море	МОРЕ	S m inan loc sg			э ... на _море_ ... в общем	е	р	о	м			S	МОРЕ	S m inan gen sg	Е
+	...	...	PUNCT										PUNCT			
+	в	В	PR			на море ... _в_ общем , на	в						PR	В	PR	В
+	общем	ОБЩИЙ	A - loc sg plen m -			море ... в _общем_ , на море	м	е	щ	б	о		A	ОБЩИЙ	A - loc sg plen m -	Й
+	,	,	PUNCT										PUNCT			
+	на	НА	PR			в общем , _на_ море ходили редко	а	н					PR	НА	PR	А
+	море	МОРЕ	S n inan loc sg			общем , на _море_ ходили редко ,	е	р	о	м			S	МОРЕ	S n inan loc sg	Е
+	ходили	ХОДИТЬ	V ipf praet pl indic - -			, на море _ходили_ редко , потому что	и	л	и	д	о	х	V	ХОДИТЬ	V ipf praet pl indic - -	Ь
+	редко	РЕДКО	ADV -			на море ходили _редко_ , потому что было	о	к	д	е	р		ADV	РЕДКО	ADV -	О
+	,	,	PUNCT										PUNCT			
+	потому что	потому что	CONJ			ходили редко , _потому что_ было холодно ,	о	т	ч	 	у	м	CONJ	потому что	CONJ	о
+	было	БЫТЬ	V ipf praet sg indic n -			редко , потому что _было_ холодно , вот	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	холодно	ХОЛОДНО	PRAEDIC -			, потому что было _холодно_ , вот .	о	н	д	о	л	о	ADV	ХОЛОДНО	ADV -	О
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			было холодно , _вот_ .  	т	о	в				PART	ВОТ	PART	Т
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2654																
+	Что	ЧТО	SPRO n inan acc sg			.   _Что_ еще рассказать ...	о	т	ч				SPRO	ЧТО	S n - nom sg	О
+	еще	ЕЩЕ	ADV -			  Что _еще_ рассказать ... 	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	рассказать	РАССКАЗАТЬ	V pf - - inf - -			 Что еще _рассказать_ ...  	ь	т	а	з	а	к	V	РАССКАЗАТЬ	V pf - - inf - -	Ь
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2655																
+# speaker = Марина																
+# sent = 2656																
+	Ну	НУ	PART			   _Ну_ а в каких	у	н					PART	НУ	PART	У
+	а	А	CONJ			  Ну _а_ в каких ,	а						CONJ	А	CONJ	А
+	в	В	PR			 Ну а _в_ каких , может	в						PR	В	PR	В
+	каких	КАКОЙ	APRO - loc pl plen - -			Ну а в _каких_ , может быть	х	и	к	а	к		APRO	КАКОЙ	A - loc pl plen - -	Й
+	,	,	PUNCT										PUNCT			
+	может	МОЧЬ	V ipf praes sg indic - 3p			в каких , _может_ быть , городах	т	е	ж	о	м		V	МОЧЬ	V ipf praes sg indic - 3p	Ь
+	быть	БЫТЬ	V ipf - - inf - -			каких , может _быть_ , городах хотела	ь	т	ы	б			V	БЫТЬ	V ipf - - inf - -	Ь
+	,	,	PUNCT										PUNCT			
+	городах	ГОРОД	S m inan loc pl			может быть , _городах_ хотела бы побывать	х	а	д	о	р	о	S	ГОРОД	S m inan loc pl	Д
+	хотела	ХОТЕТЬ	V ipf praet sg indic f -			быть , городах _хотела_ бы побывать ?	а	л	е	т	о	х	V	ХОТЕТЬ	V ipf praet sg indic f -	Ь
+	бы	БЫ	PART			, городах хотела _бы_ побывать ? 	ы	б					PART	БЫ	PART	Ы
+	побывать	ПОБЫВАТЬ	V pf - - inf - -			городах хотела бы _побывать_ ?  	ь	т	а	в	ы	б	V	ПОБЫВАТЬ	V pf - - inf - -	Ь
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2657																
+# speaker = Алёна																
+# sent = 2658																
+	Хотела	ХОТЕТЬ	V ipf praet sg indic f -			   _Хотела_ бы ? ..	а	л	е	т	о	х	V	ХОТЕТЬ	V ipf praet sg indic f -	Ь
+	бы	БЫ	PART			  Хотела _бы_ ? .. 	ы	б					PART	БЫ	PART	Ы
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2659																
+	Я	Я	SPRO sg 1p - nom			..   _Я_ бы хотела бы	я						SPRO	Я	SPRO sg 1p - nom	Я
+	бы	БЫ	PART			  Я _бы_ хотела бы съездить	ы	б					PART	БЫ	PART	Ы
+	хотела	ХОТЕТЬ	V ipf praet sg indic f -			 Я бы _хотела_ бы съездить на	а	л	е	т	о	х	V	ХОТЕТЬ	V ipf praet sg indic f -	Ь
+	бы	БЫ	PART			Я бы хотела _бы_ съездить на Сахалин	ы	б					PART	БЫ	PART	Ы
+	съездить	СЪЕЗДИТЬ	V pf - - inf - -			бы хотела бы _съездить_ на Сахалин .	ь	т	и	д	з	е	V	СЪЕЗДИТЬ	V pf - - inf - -	Ь
+	на	НА	PR			хотела бы съездить _на_ Сахалин . 	а	н					PR	НА	PR	А
+	Сахалин	САХАЛИН	S m inan acc sg			бы съездить на _Сахалин_ .  	н	и	л	а	х	а	S	САХАЛИН	S m inan acc sg	Н
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2660																
+"<distinct form="""																
+<dist>	счас															
+""">"																
+	Сейчас	СЕЙЧАС	ADV -			 счас  _Сейчас_  , уже	с	а	ч	й	е	с	ADV	СЕЙЧАС	ADV -	С
+</distinct>																
+	,	,	PUNCT										PUNCT			
+	уже	УЖЕ	ADV -			Сейчас  , _уже_ будучи взрослым человеком	е	ж	у				ADV	УЖЕ	ADV -	Е
+	будучи	БЫТЬ	V ipf praes - ger - -			 , уже _будучи_ взрослым человеком .	и	ч	у	д	у	б	V	БЫТЬ	V ipf praes - ger - -	Ь
+	взрослым	ВЗРОСЛЫЙ	A - ins sg plen m -			, уже будучи _взрослым_ человеком . 	м	ы	л	с	о	р	A	ВЗРОСЛЫЙ	A - ins sg plen m -	Й
+	человеком	ЧЕЛОВЕК	S m anim ins sg			уже будучи взрослым _человеком_ .  	м	о	к	е	в	о	S	ЧЕЛОВЕК	S m anim ins sg	К
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2661																
+	Я	Я	SPRO sg 1p - nom			.   _Я_ бы хотела съездить	я						SPRO	Я	SPRO sg 1p - nom	Я
+	бы	БЫ	PART			  Я _бы_ хотела съездить в	ы	б					PART	БЫ	PART	Ы
+	хотела	ХОТЕТЬ	V ipf praet sg indic f -			 Я бы _хотела_ съездить в Калининград	а	л	е	т	о	х	V	ХОТЕТЬ	V ipf praet sg indic f -	Ь
+	съездить	СЪЕЗДИТЬ	V pf - - inf - -			Я бы хотела _съездить_ в Калининград ,	ь	т	и	д	з	е	V	СЪЕЗДИТЬ	V pf - - inf - -	Ь
+	в	В	PR			бы хотела съездить _в_ Калининград , 	в						PR	В	PR	В
+	Калининград	КАЛИНИНГРАД	S m inan acc sg			хотела съездить в _Калининград_ ,  вишь	д	а	р	г	н	и	S	КАЛИНИНГРАД	S m inan acc sg	Д
+	,	,	PUNCT										PUNCT			
+"<distinct form="""																
+<dist>	вишь															
+""">"																
+	видишь	ВИДЕТЬ	V ipf praes sg indic - 2p			 вишь  _видишь_  , какой	ь	ш	и	д	и	в	V	ВИДЕТЬ	V ipf praes sg indic - 2p	Ь
+</distinct>																
+	,	,	PUNCT										PUNCT			
+	какой	КАКОЙ	APRO - nom sg plen m -			видишь  , _какой_ разброс : от	й	о	к	а	к		APRO	КАКОЙ	A - nom sg plen m -	Й
+	разброс	РАЗБРОС	S m inan nom sg			 , какой _разброс_ : от одного	с	о	р	б	з	а	S	РАЗБРОС	S m inan nom sg	С
+	:	:	PUNCT										PUNCT			
+	от	ОТ	PR			какой разброс : _от_ одного до другого	т	о					PR	ОТ	PR	Т
+	одного	ОДИН	ANUM - gen sg plen m -			разброс : от _одного_ до другого побережья	о	г	о	н	д	о	ANUM	ОДИН	A - gen sg plen m -	Н
+	до	ДО	PR			: от одного _до_ другого побережья .	о	д					PR	ДО	PR	О
+	другого	ДРУГОЙ	APRO - gen sg plen m -			от одного до _другого_ побережья . 	о	г	о	г	у	р	A	ДРУГОЙ	A - gen sg plen m -	Й
+	побережья	ПОБЕРЕЖЬЕ	S n inan gen sg			одного до другого _побережья_ .  	я	ь	ж	е	р	е	S	ПОБЕРЕЖЬЕ	S n inan gen sg	Е
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2662																
+	Наверное	НАВЕРНОЕ	PARENTH			.   _Наверное_ , я бы	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			 Наверное , _я_ бы съездила на	я						SPRO	Я	SPRO sg 1p - nom	Я
+	бы	БЫ	PART			Наверное , я _бы_ съездила на Камчатку	ы	б					PART	БЫ	PART	Ы
+	съездила	СЪЕЗДИТЬ	V pf praet sg indic f -			, я бы _съездила_ на Камчатку .	а	л	и	д	з	е	V	СЪЕЗДИТЬ	V pf praet sg indic f -	Ь
+	на	НА	PR			я бы съездила _на_ Камчатку . 	а	н					PR	НА	PR	А
+	Камчатку	КАМЧАТКА	S f inan acc sg			бы съездила на _Камчатку_ .  	у	к	т	а	ч	м	S	КАМЧАТКА	S f inan acc sg	А
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2663																
+	А	А	PART			.   _А_ !  	а						PART	А	PART	А
+	!	!	PUNCT										PUNCT			
+																
+# sent = 2664																
+	Еще	ЕЩЕ	ADV -			!   _Еще_ мне интересно было	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	мне	Я	SPRO sg 1p - dat			  Еще _мне_ интересно было бы	е	н	м				SPRO	Я	SPRO sg 1p - dat	Я
+	интересно	ИНТЕРЕСНО	PRAEDIC -			 Еще мне _интересно_ было бы съездить	о	н	с	е	р	е	ADV	ИНТЕРЕСНО	ADV -	О
+	было	БЫТЬ	V ipf praet sg indic n -			Еще мне интересно _было_ бы съездить на	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	бы	БЫ	PART			мне интересно было _бы_ съездить на Алтай	ы	б					PART	БЫ	PART	Ы
+	съездить	СЪЕЗДИТЬ	V pf - - inf - -			интересно было бы _съездить_ на Алтай ,	ь	т	и	д	з	е	V	СЪЕЗДИТЬ	V pf - - inf - -	Ь
+	на	НА	PR			было бы съездить _на_ Алтай , вот	а	н					PR	НА	PR	А
+	Алтай	АЛТАЙ	S m inan acc sg			бы съездить на _Алтай_ , вот ,	й	а	т	л	а		S	АЛТАЙ	S m inan acc sg	Й
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			на Алтай , _вот_ , очень интересно	т	о	в				PART	ВОТ	PART	Т
+	,	,	PUNCT										PUNCT			
+	очень	ОЧЕНЬ	ADV -			, вот , _очень_ интересно было бы	ь	н	е	ч	о		ADV	ОЧЕНЬ	ADV -	Ь
+	интересно	ИНТЕРЕСНО	PRAEDIC -			вот , очень _интересно_ было бы побывать	о	н	с	е	р	е	ADV	ИНТЕРЕСНО	ADV -	О
+	было	БЫТЬ	V ipf praet sg indic n -			, очень интересно _было_ бы побывать там	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	бы	БЫ	PART			очень интересно было _бы_ побывать там .	ы	б					PART	БЫ	PART	Ы
+	побывать	ПОБЫВАТЬ	V pf - - inf - -			интересно было бы _побывать_ там . 	ь	т	а	в	ы	б	V	ПОБЫВАТЬ	V pf - - inf - -	Ь
+	там	ТАМ	ADV -			было бы побывать _там_ .  	м	а	т				ADV	ТАМ	ADV -	М
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2665																
+	А	А	CONJ			.   _А_ из стран ...	а						CONJ	А	CONJ	А
+	из	ИЗ	PR			  А _из_ стран ... 	з	и					PR	ИЗ	PR	З
+	стран	СТРАНА	S f inan gen pl			 А из _стран_ ...  	н	а	р	т	с		S	СТРАНА	S f inan gen pl	А
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2666																
+	Ну	НУ	PART			...   _Ну_ наверное , в	у	н					PART	НУ	PART	У
+	наверное	НАВЕРНОЕ	PARENTH			  Ну _наверное_ , в Италию	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	в	В	PR			Ну наверное , _в_ Италию . 	в						PR	В	PR	В
+	Италию	ИТАЛИЯ	S f inan acc sg			наверное , в _Италию_ .  	ю	и	л	а	т	и	S	ИТАЛИЯ	S f inan acc sg	Я
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2667																
+	Э	Э-Э	INTJ			.   _Э_ ... Во Францию	э						NONLEX	Э	NONLEX	Э
+	...	...	PUNCT										PUNCT			
+	Во	ВО	PR			 Э ... _Во_ Францию ? ..	о	в					PR	ВО	PR	О
+	Францию	ФРАНЦИЯ	S f inan acc sg			Э ... Во _Францию_ ? .. 	ю	и	ц	н	а	р	S	ФРАНЦИЯ	S f inan acc sg	Я
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2668																
+	Нет	НЕТ	PART			..   _Нет_ , наверное ,	т	е	н				PART	НЕТ	PART	Т
+	,	,	PUNCT										PUNCT			
+	наверное	НАВЕРНОЕ	ADV -			 Нет , _наверное_ , во Францию	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	во	ВО	PR			, наверное , _во_ Францию не хочу	о	в					PR	ВО	PR	О
+	Францию	ФРАНЦИЯ	S f inan acc sg			наверное , во _Францию_ не хочу ,	ю	и	ц	н	а	р	S	ФРАНЦИЯ	S f inan acc sg	Я
+	не	НЕ	PART			, во Францию _не_ хочу , не	е	н					PART	НЕ	PART	Е
+	хочу	ХОТЕТЬ	V ipf praes sg indic - 1p			во Францию не _хочу_ , не знаю	у	ч	о	х			V	ХОТЕТЬ	V ipf praes sg indic - 1p	Ь
+	,	,	PUNCT										PUNCT			
+	не	НЕ	PART			не хочу , _не_ знаю даж ...	е	н					PART	НЕ	PART	Е
+	знаю	ЗНАТЬ	V ipf praes sg indic - 1p			хочу , не _знаю_ даж ... 	ю	а	н	з			V	ЗНАТЬ	V ipf praes sg indic - 1p	Ь
+	даж	ДАЖE	PART	distort		, не знаю _даж_ ...  	ж	а	д				PART	ДАЖ	S m inan acc sg	Ж
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2669																
+"<span class=""note"">"																
+<note>	Говорят одновременно															
+</span>																
+																
+# sent = 2670																
+# speaker = Марина																
+# sent = 2671																
+	Почему	ПОЧЕМУ	ADV -			   _Почему_ ?  	у	м	е	ч	о	п	ADV	ПОЧЕМУ	ADV -	У
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2672																
+# speaker = Алёна																
+# sent = 2673																
+	На	НА	PR			   _На_ Кипр хотела бы	а	н					PR	НА	PR	А
+	Кипр	КИПР	S m inan acc sg			  На _Кипр_ хотела бы !	р	п	и	к			S	КИПР	S m inan acc sg	Р
+	хотела	ХОТЕТЬ	V ipf praet sg indic f -			 На Кипр _хотела_ бы ! 	а	л	е	т	о	х	V	ХОТЕТЬ	V ipf praet sg indic f -	Ь
+	бы	БЫ	PART			На Кипр хотела _бы_ !  	ы	б					PART	БЫ	PART	Ы
+	!	!	PUNCT										PUNCT			
+																
+# sent = 2674																
+# speaker = Марина																
+# sent = 2675																
+	Почему	ПОЧЕМУ	ADV -			   _Почему_ во Францию не	у	м	е	ч	о	п	ADV	ПОЧЕМУ	ADV -	У
+	во	ВО	PR			  Почему _во_ Францию не хочешь	о	в					PR	ВО	PR	О
+	Францию	ФРАНЦИЯ	S f inan acc sg			 Почему во _Францию_ не хочешь ?	ю	и	ц	н	а	р	S	ФРАНЦИЯ	S f inan acc sg	Я
+	не	НЕ	PART			Почему во Францию _не_ хочешь ? 	е	н					PART	НЕ	PART	Е
+	хочешь	ХОТЕТЬ	V ipf praes sg indic - 2p			во Францию не _хочешь_ ?  	ь	ш	е	ч	о	х	V	ХОТЕТЬ	V ipf praes sg indic - 2p	Ь
+	?	?	PUNCT										PUNCT			
+																
+# sent = 2676																
+# speaker = Алёна																
+# sent = 2677																
+	Во	ВО	PR			   _Во_ Францию не хочу	о	в					PR	ВО	PR	О
+	Францию	ФРАНЦИЯ	S f inan acc sg			  Во _Францию_ не хочу ?	ю	и	ц	н	а	р	S	ФРАНЦИЯ	S f inan acc sg	Я
+	не	НЕ	PART			 Во Францию _не_ хочу ? ..	е	н					PART	НЕ	PART	Е
+	хочу	ХОТЕТЬ	V ipf praes sg indic - 1p			Во Францию не _хочу_ ? .. 	у	ч	о	х			V	ХОТЕТЬ	V ipf praes sg indic - 1p	Ь
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2678																
+	Не	НЕ	PART			..   _Не_ знаю , вот	е	н					PART	НЕ	PART	Е
+	знаю	ЗНАТЬ	V ipf praes sg indic - 1p			  Не _знаю_ , вот как-то	ю	а	н	з			V	ЗНАТЬ	V ipf praes sg indic - 1p	Ь
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			Не знаю , _вот_ как-то ... 	т	о	в				PART	ВОТ	PART	Т
+	как-то	КАК-ТО	ADVPRO -			знаю , вот _как-то_ ...  	о	т	-	к	а	к	ADV	КАК-ТО	ADV -	О
+	...	...	PUNCT										PUNCT			
+																
+# sent = 2679																
+	Вот	ВОТ	PART			...   _Вот_ когда произношу слово	т	о	в				PART	ВОТ	PART	Т
+	когда	КОГДА	CONJ			"  Вот _когда_ произношу слово """	а	д	г	о	к		CONJ	КОГДА	CONJ	А
+	произношу	ПРОИЗНОСИТЬ	V ipf praes sg indic - 1p			" Вот когда _произношу_ слово "" Францию"	у	ш	о	н	з	и	V	ПРОИЗНОСИТЬ	V ipf praes sg indic - 1p	Ь
+	слово	СЛОВО	S n inan acc sg			"Вот когда произношу _слово_ "" Францию """	о	в	о	л	с		S	СЛОВО	S n inan nom sg	О
+	""""	""""	PUNCT										PUNCT			
+	Францию	ФРАНЦИЯ	S f inan nom sg	DISTORT		"произношу слово "" _Францию_ "" , вот"	ю	и	ц	н	а	р	S	ФРАНЦИЯ	S f inan acc sg	Я
+	""""	""""	PUNCT										PUNCT			
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			"Францию "" , _вот_ что-то не греет"	т	о	в				PART	ВОТ	PART	Т
+	что-то	ЧТО-ТО	SPRO n inan nom sg			""" , вот _что-то_ не греет ."	о	т	-	о	т	ч	SPRO	ЧТО-ТО	S n - nom sg	О
+	не	НЕ	PART			, вот что-то _не_ греет . 	е	н					PART	НЕ	PART	Е
+	греет	ГРЕТЬ	V ipf praes sg indic - 3p			вот что-то не _греет_ .  	т	е	е	р	г		V	ГРЕТЬ	V ipf praes sg indic - 3p	Ь
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2680																
+"<span class=""note"">"																
+<note>	Смеется															
+</span>																
+	Э	Э-Э	INTJ			 Смеется  _Э_ , куда еще	э						INTJ	Э	S - - nonflex -	Э
+	,	,	PUNCT										PUNCT			
+	куда	КУДА	ADV -			 Э , _куда_ еще ? ..	а	д	у	к			ADV	КУДА	ADV -	А
+	еще	ЕЩЕ	ADV -			Э , куда _еще_ ? .. 	е	щ	е				ADV	ЕЩЕ	ADV -	Е
+	?	?..	PUNCT										PUNCT			
+	..	..	PUNCT										PUNCT			
+																
+# sent = 2681																
+	Наверное	НАВЕРНОЕ	PARENTH			..   _Наверное_ , в Финляндию	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	,	,	PUNCT										PUNCT			
+	в	В	PR			 Наверное , _в_ Финляндию бы съездила	в						PR	В	PR	В
+	Финляндию	ФИНЛЯНДИЯ	S f inan acc sg			Наверное , в _Финляндию_ бы съездила зимой	ю	и	д	н	я	л	S	ФИНЛЯНДИЯ	S f inan acc sg	Я
+	бы	БЫ	PART			, в Финляндию _бы_ съездила зимой ,	ы	б					PART	БЫ	PART	Ы
+	съездила	СЪЕЗДИТЬ	V pf praet sg indic f -			в Финляндию бы _съездила_ зимой , под	а	л	и	д	з	е	V	СЪЕЗДИТЬ	V pf praet sg indic f -	Ь
+	зимой	ЗИМА	S f inan ins sg			Финляндию бы съездила _зимой_ , под Новый	й	о	м	и	з		S	ЗИМА	S f inan ins sg	А
+	,	,	PUNCT										PUNCT			
+	под	ПОД	PR			съездила зимой , _под_ Новый год ,	д	о	п				PR	ПОД	PR	Д
+	Новый	НОВЫЙ	A - acc sg plen m inan			зимой , под _Новый_ год , вот	й	ы	в	о	н		A	НОВЫЙ	A - acc sg plen m inan	Й
+	год	ГОД	S m inan acc sg			, под Новый _год_ , вот наверное	д	о	г				S	ГОД	S m inan acc sg	Д
+	,	,	PUNCT										PUNCT			
+	вот	ВОТ	PART			Новый год , _вот_ наверное да ,	т	о	в				PART	ВОТ	PART	Т
+	наверное	НАВЕРНОЕ	PARENTH			год , вот _наверное_ да , туда	е	о	н	р	е	в	ADV	НАВЕРНОЕ	ADV -	Е
+	да	ДА	CONJ			, вот наверное _да_ , туда съездила	а	д					CONJ	ДА	CONJ	А
+	,	,	PUNCT										PUNCT			
+	туда	ТУДА	ADV -			наверное да , _туда_ съездила бы .	а	д	у	т			ADV	ТУДА	ADV -	А
+	съездила	СЪЕЗДИТЬ	V pf praet sg indic f -			да , туда _съездила_ бы . 	а	л	и	д	з	е	V	СЪЕЗДИТЬ	V pf praet sg indic f -	Ь
+	бы	БЫ	PART			, туда съездила _бы_ .  	ы	б					PART	БЫ	PART	Ы
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2682																
+	Никогда	НИКОГДА	ADV -			.   _Никогда_ не была в	а	д	г	о	к	и	ADV	НИКОГДА	ADV -	А
+	не	НЕ	PART			  Никогда _не_ была в Прибалтике	е	н					PART	НЕ	PART	Е
+	была	БЫТЬ	V ipf praet sg indic f -			 Никогда не _была_ в Прибалтике ,	а	л	ы	б			V	БЫТЬ	V ipf praet sg indic f -	Ь
+	в	В	PR			Никогда не была _в_ Прибалтике , интересно	в						PR	В	PR	В
+	Прибалтике	ПРИБАЛТИКА	S f inan loc sg			не была в _Прибалтике_ , интересно было	е	к	и	т	л	а	S	ПРИБАЛТИКА	S f inan loc sg	А
+	,	,	PUNCT										PUNCT			
+	интересно	ИНТЕРЕСНО	PRAEDIC -			в Прибалтике , _интересно_ было бы посмотреть	о	н	с	е	р	е	ADV	ИНТЕРЕСНО	ADV -	О
+	было	БЫТЬ	V ipf praet sg indic n -			Прибалтике , интересно _было_ бы посмотреть .	о	л	ы	б			V	БЫТЬ	V ipf praet sg indic n -	Ь
+	бы	БЫ	PART			, интересно было _бы_ посмотреть . 	ы	б					PART	БЫ	PART	Ы
+	посмотреть	ПОСМОТРЕТЬ	V pf - - inf - -			интересно было бы _посмотреть_ .  	ь	т	е	р	т	о	V	ПОСМОТРЕТЬ	V pf - - inf - -	Ь
+	.	.	PUNCT										PUNCT			
+																
+# sent = 2683																
+"<distinct form="""																
+<dist>	нууу															
+""">"																
+	Ну	НУ	PART			 нууу  _Ну_  , Калининград	у	н					PART	НУ	PART	У
+</distinct>																
+	,	,	PUNCT										PUNCT			
+	Калининград	КАЛИНИНГРАД	S m inan nom sg			Ну  , _Калининград_ , я думаю	д	а	р	г	н	и	S	КАЛИНИНГРАД	S m inan acc sg	Д
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			, Калининград , _я_ думаю , заменит	я						SPRO	Я	SPRO sg 1p - nom	Я
+	думаю	ДУМАТЬ	V ipf praes sg indic - 1p			Калининград , я _думаю_ , заменит все	ю	а	м	у	д		V	ДУМАТЬ	V ipf praes sg indic - 1p	Ь
+	,	,	PUNCT										PUNCT			
+	заменит	ЗАМЕНИТЬ	V pf fut sg indic - 3p			я думаю , _заменит_ все эти республики	т	и	н	е	м	а	V	ЗАМЕНИТЬ	V pf fut sg indic - 3p	Ь
+	все	ВЕСЬ	APRO - acc pl plen - inan			думаю , заменит _все_ эти республики вместе	е	с	в				APRO	ВЕСЬ	A - acc pl plen - inan	Ь
+	эти	ЭТОТ	APRO - acc pl plen - inan			, заменит все _эти_ республики вместе взятые	и	т	э				APRO	ЭТОТ	A - acc pl plen - inan	Т
+	республики	РЕСПУБЛИКА	S f inan acc sg pl			заменит все эти _республики_ вместе взятые ,	и	к	и	л	б	у	S	РЕСПУБЛИКА	S f inan gen sg	А
+	вместе	ВМЕСТЕ	ADV -			все эти республики _вместе_ взятые , я	е	т	с	е	м	в	ADV	ВМЕСТЕ	ADV -	Е
+	взятые	ВЗЯТЬ	PARTCP pf praet acc pl plen - pass inan			эти республики вместе _взятые_ , я так	е	ы	т	я	з	в	PARTCP	ВЗЯТЬ	PARTCP pf praet acc pl plen - pass inan	Ь
+	,	,	PUNCT										PUNCT			
+	я	Я	SPRO sg 1p - nom			вместе взятые , _я_ так думаю .	я						SPRO	Я	SPRO sg 1p - nom	Я
+	так	ТАК	ADVPRO -			взятые , я _так_ думаю . 	к	а	т				ADV	ТАК	ADV -	К
+	думаю	ДУМАТЬ	V ipf praes sg indic - 1p			, я так _думаю_ .  	ю	а	м	у	д		V	ДУМАТЬ	V ipf praes sg indic - 1p	Ь
+	.	.	PUNCT										PUNCT			
