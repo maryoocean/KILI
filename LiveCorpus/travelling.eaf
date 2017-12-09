@@ -1,38 +1,3018 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-11-29T17:29:06+04:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-09T22:15:14+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///F:/travelling.mp4" MIME_TYPE="video/mp4"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:07a7b00b-aa17-4253-a7fe-e9a0b42ebc17</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/pavlo/Desktop/travelling.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../travelling.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:e48d7305-3748-4b4b-b253-477fa9bb0aec</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">1109</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1810"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9290"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10130"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="13340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="13340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="13760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="13780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="14175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="14600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="15086"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="17229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="18229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="19540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="26303"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="27166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="32153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="33380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="52150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="52770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="55050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="55290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="62760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="63710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="71200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="71910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="80610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="82030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="95526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="97586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="105213"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="106873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="107646"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="109473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="124526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="125426"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="128806"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="129240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="131820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="133540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="134280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="135166"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="156753"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="158113"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="160273"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="160286"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="161573"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="162153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="177936"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="180180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="185957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="187521"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="191085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="191085"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="202329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="202329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="209819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="211117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="223234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="223542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="224320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="224819"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="228080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="228329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="229138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="230648"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="233585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="234478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="237010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="237010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="244510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="245436"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="248319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="249244"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="256202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="256925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="258127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="258691"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="260127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="261117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="264074"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="264468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="266410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="266950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="267351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="267372"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="267880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="268670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="269540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="270117"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="271468"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="271563"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="272925"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="273531"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="277031"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="279659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="281414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="281851"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="288159"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="288414"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="291680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="292457"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="299414"/>
     </TIME_ORDER>
-    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
-    <TIER ANNOTATOR="Павлова Марина" LINGUISTIC_TYPE_REF="speech" PARTICIPANT="Марина" TIER_ID="Марина-Speech">
+    <TIER ANNOTATOR="Marina Pavlova" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="Marina" TIER_ID="﻿Marina@text">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Э-э, вспомни, в каких городах и странах ты была и расскажи о тех, в которых тебе больше всего понравилось.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Э-э, вспомни, в каких городах и странах ты была, и расскажи о тех, в которых тебе больше всего понравилось.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
-    </TIER>
-    <TIER ANNOTATOR="Павлова Марина" LINGUISTIC_TYPE_REF="speech" PARTICIPANT="Алёна" TIER_ID="Алёна-Speech">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>А была, когда я была взрослой или когда я была маленькой? Или вообще?</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Вообще.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>Ну а в каких, может быть, городах хотела бы побывать?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts82" TIME_SLOT_REF2="ts83">
+                <ANNOTATION_VALUE>Почему?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts86" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>Почему во Францию не хочешь?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="Павлова Марина" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="Алёна" TIER_ID="Алёна-Gestures"/>
-    <TIER ANNOTATOR="Павлова Марина" LINGUISTIC_TYPE_REF="gestures-meaning" PARENT_REF="Алёна-Gestures" PARTICIPANT="Алёна" TIER_ID="Алёна-GestMeaning"/>
+    <TIER ANNOTATOR="Marina Pavlova" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" PARTICIPANT="Marina" TIER_ID="Алёна@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>А была, когда я была взрослой или когда я была маленькой?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>Или вообще?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Вообще?.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>Э-э, вообще...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Cамое, э-э, интересное воспоминание у меня о Сахалине.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Я туда ехала с родителями, когда мне было четыре года, ну почти пять.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Я очень боялась туда ехать, потому что родители объяснили мне, что это остров, и в моём понимании остров... э-э... а они мне, наверное, объяснили, что остров омывается со всех сторон водой и добраться до него можно было только на теплоходе. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>А я очень сильно боюсь воды, ты же знаешь.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Боюсь моря, боюсь в бассейне плавать, если я н... чувствую, что я не достаю дна.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Э-э, и когда... папа купил билеты на самолет и сказал, что мы полетим самолетом, я очень сильно обрадовалась.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Поскольку я прожила там очень долго, я в первый класс там пошла, я даже сейчас, мне кажется, ощущаю иногда запах.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>Вот запах... Ассоциации такие, вот у кого-то возникают ассоциации, там, при виде чего-то, у меня возникают ассоциации при ощущении запаха, особенно вот запах осени, листвы, грибов. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>И очень яркое вппечатление у меня осталось, ну, наверное, от Кипра.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Кипр...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Когда прилетаешь, кажется, что такая выжженая местность, выжженая солнцем, но когда находишься непосредственно уже в городе, в курортной зоне, то очень живописные такие места.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>И, помнишь, наши впечатления о цвете моря, хах?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Когда мы воскликнули: "Ах, как на плакате".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Что еще?..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Ну Барселона, наверное, произвела впечатление, потому что в первый раз я там побывала в девяностых годах и после такой достаточно суровой серой Москвы Барселона и маленькие городки, которые находятся недалеко от нее, такие достаточно живописные места. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Где еще я была... а, Санкт-Петербург!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Да, Санкт-Петербург.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Культурная столица, где меня поразила достаточно такая, бросающаяся в глаза неухоженность улиц, э-э, неудобство транспорта общественного, что еще...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>Ну и в то же время контраст: очень красивые исторические места.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Э-э, что еще? Анапа! Вот, Анапа!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Первый раз в Анапе мы были, когда учились на четвертом курсе, поехали в сентябре - да, могли себе позволить - в преподавательску смену.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Там встретили своих преподавателей, аспирантов, и на вопрос, а что мы здесь делаем, мы ответили: "Отдыхаем!".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Погода была не всегда хорошая, поэтому отдыхали мы... э-э... на море... в общем, на море ходили редко, потому что было холодно, вот.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>Что еще рассказать...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>Хотела бы?..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>Я бы хотела бы съездить на Сахалин.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>Сейчас, уже будучи взрослым человеком.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>Я бы хотела съездить в Калининград, видишь, какой разброс: от одного до другого побережья.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>Наверное, я бы съездила на Камчатку.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>А! Еще мне интересно было бы съездить на Алтай, вот, очень интересно было бы побывать там.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>А из стран...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>Ну наверное, в Италию.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>Э-э... Во Францию?..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>Нет, наверное, во Францию не хочу, не знаю даже...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts87">
+                <ANNOTATION_VALUE>На Кипр хотела бы!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>Во Францию не хочу?.. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>Не знаю, вот как-то...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>Вот когда произношу слово "Франция", вот что-то не греет.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>Э-э, куда еще?..</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>Наверное, в Финляндию бы съездила зимой, под Новый год, вот наверное да, туда съездила бы.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>Никогда не была в Прибалтике, интересно было бы посмотреть.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>Ну, Калининград, я думаю, заменит все эти республики вместе взятые, я так думаю.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Marina Pavlova" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="subdivision" PARENT_REF="﻿Marina@text" PARTICIPANT="Marina" TIER_ID="Marina@words">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a583" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a584" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a583">
+                <ANNOTATION_VALUE>вспомни,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a585" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a584">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a586" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a585">
+                <ANNOTATION_VALUE>каких</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a587" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a586">
+                <ANNOTATION_VALUE>городах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a588" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a587">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a589" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a588">
+                <ANNOTATION_VALUE>странах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a590" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a589">
+                <ANNOTATION_VALUE>ты</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a591" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a590">
+                <ANNOTATION_VALUE>была,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a592" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a591">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a593" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a592">
+                <ANNOTATION_VALUE>расскажи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a594" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a593">
+                <ANNOTATION_VALUE>о</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a595" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a594">
+                <ANNOTATION_VALUE>тех,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a596" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a595">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a597" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a596">
+                <ANNOTATION_VALUE>которых</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a598" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a597">
+                <ANNOTATION_VALUE>тебе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a599" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a598">
+                <ANNOTATION_VALUE>больше</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a600" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a599">
+                <ANNOTATION_VALUE>всего</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a601" ANNOTATION_REF="a1" PREVIOUS_ANNOTATION="a600">
+                <ANNOTATION_VALUE>понравилось.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a602" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Вообще.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a603" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Ну</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a604" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a603">
+                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a605" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a604">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a606" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a605">
+                <ANNOTATION_VALUE>каких,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a607" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a606">
+                <ANNOTATION_VALUE>может</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a608" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a607">
+                <ANNOTATION_VALUE>быть,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a609" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a608">
+                <ANNOTATION_VALUE>городах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a610" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a609">
+                <ANNOTATION_VALUE>хотела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a611" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a610">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a612" ANNOTATION_REF="a3" PREVIOUS_ANNOTATION="a611">
+                <ANNOTATION_VALUE>побывать?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a613" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Почему?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a614" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Почему</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a615" ANNOTATION_REF="a5" PREVIOUS_ANNOTATION="a614">
+                <ANNOTATION_VALUE>во</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a616" ANNOTATION_REF="a5" PREVIOUS_ANNOTATION="a615">
+                <ANNOTATION_VALUE>Францию</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a617" ANNOTATION_REF="a5" PREVIOUS_ANNOTATION="a616">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a618" ANNOTATION_REF="a5" PREVIOUS_ANNOTATION="a617">
+                <ANNOTATION_VALUE>хочешь?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Marina Pavlova" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="subdivision" PARENT_REF="Алёна@text" PARTICIPANT="Алёна" TIER_ID="Алёна@words">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a619" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>А</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a620" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a619">
+                <ANNOTATION_VALUE>была,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a621" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a620">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a622" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a621">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a623" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a622">
+                <ANNOTATION_VALUE>была</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a624" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a623">
+                <ANNOTATION_VALUE>взрослой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a625" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a624">
+                <ANNOTATION_VALUE>или</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a626" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a625">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a627" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a626">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a628" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a627">
+                <ANNOTATION_VALUE>была</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a629" ANNOTATION_REF="a6" PREVIOUS_ANNOTATION="a628">
+                <ANNOTATION_VALUE>маленькой?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a630" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Или</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a631" ANNOTATION_REF="a7" PREVIOUS_ANNOTATION="a630">
+                <ANNOTATION_VALUE>вообще?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a632" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Вообще?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a633" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a634" ANNOTATION_REF="a9" PREVIOUS_ANNOTATION="a633">
+                <ANNOTATION_VALUE>вообще...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a635" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Cамое,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a636" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a635">
+                <ANNOTATION_VALUE>э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a637" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a636">
+                <ANNOTATION_VALUE>интересное</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a638" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a637">
+                <ANNOTATION_VALUE>воспоминание</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a639" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a638">
+                <ANNOTATION_VALUE>у</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a640" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a639">
+                <ANNOTATION_VALUE>меня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a641" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a640">
+                <ANNOTATION_VALUE>о</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a642" ANNOTATION_REF="a53" PREVIOUS_ANNOTATION="a641">
+                <ANNOTATION_VALUE>Сахалине.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a643" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a644" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a643">
+                <ANNOTATION_VALUE>туда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a645" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a644">
+                <ANNOTATION_VALUE>ехала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a646" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a645">
+                <ANNOTATION_VALUE>с</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a647" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a646">
+                <ANNOTATION_VALUE>родителями,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a648" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a647">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a649" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a648">
+                <ANNOTATION_VALUE>мне</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a650" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a649">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a651" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a650">
+                <ANNOTATION_VALUE>четыре</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a652" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a651">
+                <ANNOTATION_VALUE>года,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a653" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a652">
+                <ANNOTATION_VALUE>ну</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a654" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a653">
+                <ANNOTATION_VALUE>почти</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a655" ANNOTATION_REF="a10" PREVIOUS_ANNOTATION="a654">
+                <ANNOTATION_VALUE>пять.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a656" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a657" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a656">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a658" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a657">
+                <ANNOTATION_VALUE>боялась</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a659" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a658">
+                <ANNOTATION_VALUE>туда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a660" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a659">
+                <ANNOTATION_VALUE>ехать,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a661" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a660">
+                <ANNOTATION_VALUE>потому</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a662" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a661">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a663" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a662">
+                <ANNOTATION_VALUE>родители</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a664" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a663">
+                <ANNOTATION_VALUE>объяснили</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a665" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a664">
+                <ANNOTATION_VALUE>мне,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a666" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a665">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a667" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a666">
+                <ANNOTATION_VALUE>это</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a668" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a667">
+                <ANNOTATION_VALUE>остров,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a669" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a668">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a670" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a669">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a671" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a670">
+                <ANNOTATION_VALUE>моём</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a672" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a671">
+                <ANNOTATION_VALUE>понимании</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a673" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a672">
+                <ANNOTATION_VALUE>остров...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a674" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a673">
+                <ANNOTATION_VALUE>э-э...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a675" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a674">
+                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a676" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a675">
+                <ANNOTATION_VALUE>они</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a677" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a676">
+                <ANNOTATION_VALUE>мне,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a678" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a677">
+                <ANNOTATION_VALUE>наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a679" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a678">
+                <ANNOTATION_VALUE>объяснили,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a680" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a679">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a681" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a680">
+                <ANNOTATION_VALUE>остров</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a682" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a681">
+                <ANNOTATION_VALUE>омывается</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a683" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a682">
+                <ANNOTATION_VALUE>со</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a684" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a683">
+                <ANNOTATION_VALUE>всех</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a685" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a684">
+                <ANNOTATION_VALUE>сторон</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a686" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a685">
+                <ANNOTATION_VALUE>водой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a687" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a686">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a688" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a687">
+                <ANNOTATION_VALUE>добраться</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a689" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a688">
+                <ANNOTATION_VALUE>до</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a690" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a689">
+                <ANNOTATION_VALUE>него</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a691" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a690">
+                <ANNOTATION_VALUE>можно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a692" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a691">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a693" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a692">
+                <ANNOTATION_VALUE>только</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a694" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a693">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a695" ANNOTATION_REF="a11" PREVIOUS_ANNOTATION="a694">
+                <ANNOTATION_VALUE>теплоходе.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a696" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>А</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a697" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a696">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a698" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a697">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a699" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a698">
+                <ANNOTATION_VALUE>сильно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a700" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a699">
+                <ANNOTATION_VALUE>боюсь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a701" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a700">
+                <ANNOTATION_VALUE>воды,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a702" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a701">
+                <ANNOTATION_VALUE>ты</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a703" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a702">
+                <ANNOTATION_VALUE>же</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a704" ANNOTATION_REF="a12" PREVIOUS_ANNOTATION="a703">
+                <ANNOTATION_VALUE>знаешь.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a705" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Боюсь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a706" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a705">
+                <ANNOTATION_VALUE>моря,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a707" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a706">
+                <ANNOTATION_VALUE>боюсь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a708" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a707">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a709" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a708">
+                <ANNOTATION_VALUE>бассейне</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a710" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a709">
+                <ANNOTATION_VALUE>плавать,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a711" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a710">
+                <ANNOTATION_VALUE>если</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a712" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a711">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a713" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a712">
+                <ANNOTATION_VALUE>н...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a714" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a713">
+                <ANNOTATION_VALUE>чувствую,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a715" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a714">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a716" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a715">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a717" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a716">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a718" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a717">
+                <ANNOTATION_VALUE>достаю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a719" ANNOTATION_REF="a13" PREVIOUS_ANNOTATION="a718">
+                <ANNOTATION_VALUE>дна.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a720" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a721" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a720">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a722" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a721">
+                <ANNOTATION_VALUE>когда...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a723" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a722">
+                <ANNOTATION_VALUE>папа</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a724" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a723">
+                <ANNOTATION_VALUE>купил</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a725" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a724">
+                <ANNOTATION_VALUE>билеты</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a726" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a725">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a727" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a726">
+                <ANNOTATION_VALUE>самолет</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a728" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a727">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a729" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a728">
+                <ANNOTATION_VALUE>сказал,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a730" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a729">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a731" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a730">
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a732" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a731">
+                <ANNOTATION_VALUE>полетим</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a733" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a732">
+                <ANNOTATION_VALUE>самолетом,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a734" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a733">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a735" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a734">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a736" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a735">
+                <ANNOTATION_VALUE>сильно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a737" ANNOTATION_REF="a14" PREVIOUS_ANNOTATION="a736">
+                <ANNOTATION_VALUE>обрадовалась.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a738" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Поскольку</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a739" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a738">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a740" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a739">
+                <ANNOTATION_VALUE>прожила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a741" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a740">
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a742" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a741">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a743" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a742">
+                <ANNOTATION_VALUE>долго,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a744" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a743">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a745" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a744">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a746" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a745">
+                <ANNOTATION_VALUE>первый</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a747" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a746">
+                <ANNOTATION_VALUE>класс</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a748" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a747">
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a749" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a748">
+                <ANNOTATION_VALUE>пошла,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a750" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a749">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a751" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a750">
+                <ANNOTATION_VALUE>даже</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a752" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a751">
+                <ANNOTATION_VALUE>сейчас,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a753" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a752">
+                <ANNOTATION_VALUE>мне</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a754" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a753">
+                <ANNOTATION_VALUE>кажется,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a755" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a754">
+                <ANNOTATION_VALUE>ощущаю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a756" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a755">
+                <ANNOTATION_VALUE>иногда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a757" ANNOTATION_REF="a15" PREVIOUS_ANNOTATION="a756">
+                <ANNOTATION_VALUE>запах.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a758" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a759" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a758">
+                <ANNOTATION_VALUE>запах...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a760" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a759">
+                <ANNOTATION_VALUE>Ассоциации</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a761" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a760">
+                <ANNOTATION_VALUE>такие,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a762" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a761">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a763" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a762">
+                <ANNOTATION_VALUE>у</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a764" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a763">
+                <ANNOTATION_VALUE>кого-то</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a765" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a764">
+                <ANNOTATION_VALUE>возникают</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a766" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a765">
+                <ANNOTATION_VALUE>ассоциации,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a767" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a766">
+                <ANNOTATION_VALUE>там,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a768" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a767">
+                <ANNOTATION_VALUE>при</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a769" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a768">
+                <ANNOTATION_VALUE>виде</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a770" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a769">
+                <ANNOTATION_VALUE>чего-то,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a771" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a770">
+                <ANNOTATION_VALUE>у</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a772" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a771">
+                <ANNOTATION_VALUE>меня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a773" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a772">
+                <ANNOTATION_VALUE>возникают</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a774" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a773">
+                <ANNOTATION_VALUE>ассоциации</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a775" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a774">
+                <ANNOTATION_VALUE>при</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a776" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a775">
+                <ANNOTATION_VALUE>ощущении</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a777" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a776">
+                <ANNOTATION_VALUE>запаха,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a778" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a777">
+                <ANNOTATION_VALUE>особенно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a779" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a778">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a780" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a779">
+                <ANNOTATION_VALUE>запах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a781" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a780">
+                <ANNOTATION_VALUE>осени,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a782" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a781">
+                <ANNOTATION_VALUE>листвы,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a16" PREVIOUS_ANNOTATION="a782">
+                <ANNOTATION_VALUE>грибов.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a784" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>И</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a785" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a784">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a786" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a785">
+                <ANNOTATION_VALUE>яркое</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a787" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a786">
+                <ANNOTATION_VALUE>вппечатление</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a788" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a787">
+                <ANNOTATION_VALUE>у</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a789" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a788">
+                <ANNOTATION_VALUE>меня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a790" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a789">
+                <ANNOTATION_VALUE>осталось,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a791" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a790">
+                <ANNOTATION_VALUE>ну,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a792" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a791">
+                <ANNOTATION_VALUE>наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a793" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a792">
+                <ANNOTATION_VALUE>от</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a794" ANNOTATION_REF="a18" PREVIOUS_ANNOTATION="a793">
+                <ANNOTATION_VALUE>Кипра.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a795" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Кипр...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a796" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a797" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a796">
+                <ANNOTATION_VALUE>прилетаешь,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a798" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a797">
+                <ANNOTATION_VALUE>кажется,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a799" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a798">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a800" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a799">
+                <ANNOTATION_VALUE>такая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a801" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a800">
+                <ANNOTATION_VALUE>выжженая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a802" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a801">
+                <ANNOTATION_VALUE>местность,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a803" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a802">
+                <ANNOTATION_VALUE>выжженая</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a804" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a803">
+                <ANNOTATION_VALUE>солнцем,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a805" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a804">
+                <ANNOTATION_VALUE>но</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a806" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a805">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a807" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a806">
+                <ANNOTATION_VALUE>находишься</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a808" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a807">
+                <ANNOTATION_VALUE>непосредственно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a809" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a808">
+                <ANNOTATION_VALUE>уже</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a810" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a809">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a811" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a810">
+                <ANNOTATION_VALUE>городе,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a812" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a811">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a813" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a812">
+                <ANNOTATION_VALUE>курортной</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a814" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a813">
+                <ANNOTATION_VALUE>зоне,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a815" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a814">
+                <ANNOTATION_VALUE>то</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a816" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a815">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a817" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a816">
+                <ANNOTATION_VALUE>живописные</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a818" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a817">
+                <ANNOTATION_VALUE>такие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a819" ANNOTATION_REF="a20" PREVIOUS_ANNOTATION="a818">
+                <ANNOTATION_VALUE>места.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a820" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>И,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a821" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a820">
+                <ANNOTATION_VALUE>помнишь,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a822" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a821">
+                <ANNOTATION_VALUE>наши</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a823" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a822">
+                <ANNOTATION_VALUE>впечатления</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a824" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a823">
+                <ANNOTATION_VALUE>о</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a825" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a824">
+                <ANNOTATION_VALUE>цвете</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a826" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a825">
+                <ANNOTATION_VALUE>моря,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a827" ANNOTATION_REF="a21" PREVIOUS_ANNOTATION="a826">
+                <ANNOTATION_VALUE>хах?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a828" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a829" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a828">
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a830" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a829">
+                <ANNOTATION_VALUE>воскликнули:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a831" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a830">
+                <ANNOTATION_VALUE>"Ах,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a832" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a831">
+                <ANNOTATION_VALUE>как</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a833" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a832">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a834" ANNOTATION_REF="a54" PREVIOUS_ANNOTATION="a833">
+                <ANNOTATION_VALUE>плакате".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a835" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a836" ANNOTATION_REF="a22" PREVIOUS_ANNOTATION="a835">
+                <ANNOTATION_VALUE>еще?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a837" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Ну</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a838" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a837">
+                <ANNOTATION_VALUE>Барселона,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a839" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a838">
+                <ANNOTATION_VALUE>наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a840" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a839">
+                <ANNOTATION_VALUE>произвела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a841" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a840">
+                <ANNOTATION_VALUE>впечатление,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a842" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a841">
+                <ANNOTATION_VALUE>потому</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a843" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a842">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a844" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a843">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a845" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a844">
+                <ANNOTATION_VALUE>первый</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a846" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a845">
+                <ANNOTATION_VALUE>раз</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a847" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a846">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a848" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a847">
+                <ANNOTATION_VALUE>там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a849" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a848">
+                <ANNOTATION_VALUE>побывала</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a850" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a849">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a851" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a850">
+                <ANNOTATION_VALUE>девяностых</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a852" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a851">
+                <ANNOTATION_VALUE>годах</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a853" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a852">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a854" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a853">
+                <ANNOTATION_VALUE>после</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a855" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a854">
+                <ANNOTATION_VALUE>такой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a856" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a855">
+                <ANNOTATION_VALUE>достаточно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a857" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a856">
+                <ANNOTATION_VALUE>суровой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a858" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a857">
+                <ANNOTATION_VALUE>серой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a859" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a858">
+                <ANNOTATION_VALUE>Москвы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a860" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a859">
+                <ANNOTATION_VALUE>Барселона</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a861" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a860">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a862" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a861">
+                <ANNOTATION_VALUE>маленькие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a863" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a862">
+                <ANNOTATION_VALUE>городки,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a864" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a863">
+                <ANNOTATION_VALUE>которые</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a865" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a864">
+                <ANNOTATION_VALUE>находятся</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a866" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a865">
+                <ANNOTATION_VALUE>недалеко</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a867" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a866">
+                <ANNOTATION_VALUE>от</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a868" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a867">
+                <ANNOTATION_VALUE>нее,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a869" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a868">
+                <ANNOTATION_VALUE>такие</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a870" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a869">
+                <ANNOTATION_VALUE>достаточно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a871" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a870">
+                <ANNOTATION_VALUE>живописные</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a872" ANNOTATION_REF="a23" PREVIOUS_ANNOTATION="a871">
+                <ANNOTATION_VALUE>места.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a873" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Где</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a874" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a873">
+                <ANNOTATION_VALUE>еще</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a875" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a874">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a876" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a875">
+                <ANNOTATION_VALUE>была...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a877" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a876">
+                <ANNOTATION_VALUE>а,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a878" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a877">
+                <ANNOTATION_VALUE>Санкт-Петербург!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a879" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Да,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a880" ANNOTATION_REF="a25" PREVIOUS_ANNOTATION="a879">
+                <ANNOTATION_VALUE>Санкт-Петербург.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a881" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Культурная</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a882" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a881">
+                <ANNOTATION_VALUE>столица,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a883" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a882">
+                <ANNOTATION_VALUE>где</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a884" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a883">
+                <ANNOTATION_VALUE>меня</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a885" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a884">
+                <ANNOTATION_VALUE>поразила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a886" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a885">
+                <ANNOTATION_VALUE>достаточно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a887" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a886">
+                <ANNOTATION_VALUE>такая,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a888" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a887">
+                <ANNOTATION_VALUE>бросающаяся</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a889" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a888">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a890" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a889">
+                <ANNOTATION_VALUE>глаза</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a891" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a890">
+                <ANNOTATION_VALUE>неухоженность</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a892" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a891">
+                <ANNOTATION_VALUE>улиц,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a893" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a892">
+                <ANNOTATION_VALUE>э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a894" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a893">
+                <ANNOTATION_VALUE>неудобство</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a895" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a894">
+                <ANNOTATION_VALUE>транспорта</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a896" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a895">
+                <ANNOTATION_VALUE>общественного,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a897" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a896">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a898" ANNOTATION_REF="a26" PREVIOUS_ANNOTATION="a897">
+                <ANNOTATION_VALUE>еще...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a899" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Ну</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a900" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a899">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a901" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a900">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a902" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a901">
+                <ANNOTATION_VALUE>то</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a903" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a902">
+                <ANNOTATION_VALUE>же</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a904" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a903">
+                <ANNOTATION_VALUE>время</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a905" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a904">
+                <ANNOTATION_VALUE>контраст:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a906" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a905">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a907" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a906">
+                <ANNOTATION_VALUE>красивые</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a908" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a907">
+                <ANNOTATION_VALUE>исторические</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a909" ANNOTATION_REF="a27" PREVIOUS_ANNOTATION="a908">
+                <ANNOTATION_VALUE>места.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a910" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a911" ANNOTATION_REF="a28" PREVIOUS_ANNOTATION="a910">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a912" ANNOTATION_REF="a28" PREVIOUS_ANNOTATION="a911">
+                <ANNOTATION_VALUE>еще?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a913" ANNOTATION_REF="a28" PREVIOUS_ANNOTATION="a912">
+                <ANNOTATION_VALUE>Анапа!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a914" ANNOTATION_REF="a28" PREVIOUS_ANNOTATION="a913">
+                <ANNOTATION_VALUE>Вот,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a915" ANNOTATION_REF="a28" PREVIOUS_ANNOTATION="a914">
+                <ANNOTATION_VALUE>Анапа!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a916" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Первый</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a917" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a916">
+                <ANNOTATION_VALUE>раз</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a918" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a917">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a919" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a918">
+                <ANNOTATION_VALUE>Анапе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a920" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a919">
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a921" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a920">
+                <ANNOTATION_VALUE>были,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a922" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a921">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a923" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a922">
+                <ANNOTATION_VALUE>учились</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a924" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a923">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a925" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a924">
+                <ANNOTATION_VALUE>четвертом</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a926" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a925">
+                <ANNOTATION_VALUE>курсе,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a927" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a926">
+                <ANNOTATION_VALUE>поехали</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a928" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a927">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a929" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a928">
+                <ANNOTATION_VALUE>сентябре</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a930" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a929">
+                <ANNOTATION_VALUE>-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a931" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a930">
+                <ANNOTATION_VALUE>да,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a932" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a931">
+                <ANNOTATION_VALUE>могли</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a933" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a932">
+                <ANNOTATION_VALUE>себе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a934" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a933">
+                <ANNOTATION_VALUE>позволить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a935" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a934">
+                <ANNOTATION_VALUE>-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a936" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a935">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a937" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a936">
+                <ANNOTATION_VALUE>преподавательскую</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a938" ANNOTATION_REF="a29" PREVIOUS_ANNOTATION="a937">
+                <ANNOTATION_VALUE>смену.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a939" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Там</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a940" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a939">
+                <ANNOTATION_VALUE>встретили</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a941" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a940">
+                <ANNOTATION_VALUE>своих</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a942" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a941">
+                <ANNOTATION_VALUE>преподавателей,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a943" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a942">
+                <ANNOTATION_VALUE>аспирантов,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a944" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a943">
+                <ANNOTATION_VALUE>и</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a945" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a944">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a946" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a945">
+                <ANNOTATION_VALUE>вопрос,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a947" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a946">
+                <ANNOTATION_VALUE>а</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a948" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a947">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a949" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a948">
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a950" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a949">
+                <ANNOTATION_VALUE>здесь</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a951" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a950">
+                <ANNOTATION_VALUE>делаем,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a952" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a951">
+                <ANNOTATION_VALUE>мы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a953" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a952">
+                <ANNOTATION_VALUE>ответили:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a954" ANNOTATION_REF="a30" PREVIOUS_ANNOTATION="a953">
+                <ANNOTATION_VALUE>"Отдыхаем!".</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a955" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Погода</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a956" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a955">
+                <ANNOTATION_VALUE>была</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a957" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a956">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a958" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a957">
+                <ANNOTATION_VALUE>всегда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a959" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a958">
+                <ANNOTATION_VALUE>хорошая,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a960" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a959">
+                <ANNOTATION_VALUE>поэтому</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a961" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a960">
+                <ANNOTATION_VALUE>отдыхали</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a962" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a961">
+                <ANNOTATION_VALUE>мы...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a963" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a962">
+                <ANNOTATION_VALUE>э-э...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a964" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a963">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a965" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a964">
+                <ANNOTATION_VALUE>море...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a966" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a965">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a967" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a966">
+                <ANNOTATION_VALUE>общем,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a968" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a967">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a969" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a968">
+                <ANNOTATION_VALUE>море</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a970" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a969">
+                <ANNOTATION_VALUE>ходили</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a971" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a970">
+                <ANNOTATION_VALUE>редко,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a972" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a971">
+                <ANNOTATION_VALUE>потому</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a973" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a972">
+                <ANNOTATION_VALUE>что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a974" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a973">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a975" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a974">
+                <ANNOTATION_VALUE>холодно,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a976" ANNOTATION_REF="a31" PREVIOUS_ANNOTATION="a975">
+                <ANNOTATION_VALUE>вот.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a977" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Что</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a978" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a977">
+                <ANNOTATION_VALUE>еще</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a979" ANNOTATION_REF="a32" PREVIOUS_ANNOTATION="a978">
+                <ANNOTATION_VALUE>рассказать...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Хотела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a981" ANNOTATION_REF="a33" PREVIOUS_ANNOTATION="a980">
+                <ANNOTATION_VALUE>бы?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a982" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a983" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a982">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a984" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a983">
+                <ANNOTATION_VALUE>хотела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a985" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a984">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a985">
+                <ANNOTATION_VALUE>съездить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a987" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a986">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a988" ANNOTATION_REF="a34" PREVIOUS_ANNOTATION="a987">
+                <ANNOTATION_VALUE>Сахалин.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a989" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Сейчас,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a990" ANNOTATION_REF="a35" PREVIOUS_ANNOTATION="a989">
+                <ANNOTATION_VALUE>уже</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a991" ANNOTATION_REF="a35" PREVIOUS_ANNOTATION="a990">
+                <ANNOTATION_VALUE>будучи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a992" ANNOTATION_REF="a35" PREVIOUS_ANNOTATION="a991">
+                <ANNOTATION_VALUE>взрослым</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a993" ANNOTATION_REF="a35" PREVIOUS_ANNOTATION="a992">
+                <ANNOTATION_VALUE>человеком.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a994" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a995" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a994">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a996" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a995">
+                <ANNOTATION_VALUE>хотела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a997" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a996">
+                <ANNOTATION_VALUE>съездить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a998" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a997">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a999" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a998">
+                <ANNOTATION_VALUE>Калининград,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1000" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a999">
+                <ANNOTATION_VALUE>видишь,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1001" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1000">
+                <ANNOTATION_VALUE>какой</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1002" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1001">
+                <ANNOTATION_VALUE>разброс:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1003" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1002">
+                <ANNOTATION_VALUE>от</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1004" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1003">
+                <ANNOTATION_VALUE>одного</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1005" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1004">
+                <ANNOTATION_VALUE>до</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1006" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1005">
+                <ANNOTATION_VALUE>другого</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1007" ANNOTATION_REF="a36" PREVIOUS_ANNOTATION="a1006">
+                <ANNOTATION_VALUE>побережья.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1008" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1009" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a1008">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1010" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a1009">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1011" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a1010">
+                <ANNOTATION_VALUE>съездила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1012" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a1011">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1013" ANNOTATION_REF="a37" PREVIOUS_ANNOTATION="a1012">
+                <ANNOTATION_VALUE>Камчатку.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1014" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>А!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1015" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1014">
+                <ANNOTATION_VALUE>Еще</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1016" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1015">
+                <ANNOTATION_VALUE>мне</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1017" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1016">
+                <ANNOTATION_VALUE>интересно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1018" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1017">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1019" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1018">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1020" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1019">
+                <ANNOTATION_VALUE>съездить</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1021" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1020">
+                <ANNOTATION_VALUE>на</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1022" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1021">
+                <ANNOTATION_VALUE>Алтай,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1022">
+                <ANNOTATION_VALUE>вот,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1024" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1023">
+                <ANNOTATION_VALUE>очень</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1025" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1024">
+                <ANNOTATION_VALUE>интересно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1026" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1025">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1027" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1026">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1028" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1027">
+                <ANNOTATION_VALUE>побывать</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1029" ANNOTATION_REF="a38" PREVIOUS_ANNOTATION="a1028">
+                <ANNOTATION_VALUE>там.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1030" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>А</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1031" ANNOTATION_REF="a40" PREVIOUS_ANNOTATION="a1030">
+                <ANNOTATION_VALUE>из</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1032" ANNOTATION_REF="a40" PREVIOUS_ANNOTATION="a1031">
+                <ANNOTATION_VALUE>стран...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1033" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>Ну</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1034" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a1033">
+                <ANNOTATION_VALUE>наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1035" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a1034">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1036" ANNOTATION_REF="a41" PREVIOUS_ANNOTATION="a1035">
+                <ANNOTATION_VALUE>Италию.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1037" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Э-э...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1038" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a1037">
+                <ANNOTATION_VALUE>Во</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1039" ANNOTATION_REF="a42" PREVIOUS_ANNOTATION="a1038">
+                <ANNOTATION_VALUE>Францию?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1040" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Нет,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1041" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1040">
+                <ANNOTATION_VALUE>наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1042" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1041">
+                <ANNOTATION_VALUE>во</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1043" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1042">
+                <ANNOTATION_VALUE>Францию</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1044" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1043">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1045" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1044">
+                <ANNOTATION_VALUE>хочу,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1045">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1047" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1046">
+                <ANNOTATION_VALUE>знаю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1048" ANNOTATION_REF="a44" PREVIOUS_ANNOTATION="a1047">
+                <ANNOTATION_VALUE>даже...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1049" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>На</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1050" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a1049">
+                <ANNOTATION_VALUE>Кипр</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1051" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a1050">
+                <ANNOTATION_VALUE>хотела</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1052" ANNOTATION_REF="a45" PREVIOUS_ANNOTATION="a1051">
+                <ANNOTATION_VALUE>бы!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1053" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Во</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a1053">
+                <ANNOTATION_VALUE>Францию</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a1054">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1056" ANNOTATION_REF="a46" PREVIOUS_ANNOTATION="a1055">
+                <ANNOTATION_VALUE>хочу?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1057" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1058" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a1057">
+                <ANNOTATION_VALUE>знаю,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1059" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a1058">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1060" ANNOTATION_REF="a47" PREVIOUS_ANNOTATION="a1059">
+                <ANNOTATION_VALUE>как-то...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1061" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1062" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1061">
+                <ANNOTATION_VALUE>когда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1063" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1062">
+                <ANNOTATION_VALUE>произношу</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1064" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1063">
+                <ANNOTATION_VALUE>слово</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1065" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1064">
+                <ANNOTATION_VALUE>"Франция",</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1066" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1065">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1067" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1066">
+                <ANNOTATION_VALUE>что-то</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1068" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1067">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1069" ANNOTATION_REF="a48" PREVIOUS_ANNOTATION="a1068">
+                <ANNOTATION_VALUE>греет.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1070" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Э-э,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1071" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a1070">
+                <ANNOTATION_VALUE>куда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1072" ANNOTATION_REF="a49" PREVIOUS_ANNOTATION="a1071">
+                <ANNOTATION_VALUE>еще?..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1073" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>Наверное,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1074" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1073">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1075" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1074">
+                <ANNOTATION_VALUE>Финляндию</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1076" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1075">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1077" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1076">
+                <ANNOTATION_VALUE>съездила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1078" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1077">
+                <ANNOTATION_VALUE>зимой,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1079" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1078">
+                <ANNOTATION_VALUE>под</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1080" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1079">
+                <ANNOTATION_VALUE>Новый</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1081" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1080">
+                <ANNOTATION_VALUE>год,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1082" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1081">
+                <ANNOTATION_VALUE>вот</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1083" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1082">
+                <ANNOTATION_VALUE>наверное</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1084" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1083">
+                <ANNOTATION_VALUE>да,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1085" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1084">
+                <ANNOTATION_VALUE>туда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1086" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1085">
+                <ANNOTATION_VALUE>съездила</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1087" ANNOTATION_REF="a55" PREVIOUS_ANNOTATION="a1086">
+                <ANNOTATION_VALUE>бы.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1088" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Никогда</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1089" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1088">
+                <ANNOTATION_VALUE>не</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1090" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1089">
+                <ANNOTATION_VALUE>была</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1091" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1090">
+                <ANNOTATION_VALUE>в</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1092" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1091">
+                <ANNOTATION_VALUE>Прибалтике,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1093" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1092">
+                <ANNOTATION_VALUE>интересно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1094" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1093">
+                <ANNOTATION_VALUE>было</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1095" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1094">
+                <ANNOTATION_VALUE>бы</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1096" ANNOTATION_REF="a51" PREVIOUS_ANNOTATION="a1095">
+                <ANNOTATION_VALUE>посмотреть.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1097" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Ну,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1098" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1097">
+                <ANNOTATION_VALUE>Калининград,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1099" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1098">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1100" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1099">
+                <ANNOTATION_VALUE>думаю,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1101" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1100">
+                <ANNOTATION_VALUE>заменит</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1102" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1101">
+                <ANNOTATION_VALUE>все</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1103" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1102">
+                <ANNOTATION_VALUE>эти</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1104" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1103">
+                <ANNOTATION_VALUE>республики</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1105" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1104">
+                <ANNOTATION_VALUE>вместе</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1106" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1105">
+                <ANNOTATION_VALUE>взятые,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1107" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1106">
+                <ANNOTATION_VALUE>я</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1108" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1107">
+                <ANNOTATION_VALUE>так</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1109" ANNOTATION_REF="a52" PREVIOUS_ANNOTATION="a1108">
+                <ANNOTATION_VALUE>думаю.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="text" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures-meaning" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="speech" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="association" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="subdivision" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
